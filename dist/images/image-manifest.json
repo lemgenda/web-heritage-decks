@@ -1,0 +1,2495 @@
+{
+  "images/branding/favicons/android-chrome-192x192.png": {
+    "width": 192,
+    "height": 192,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/android-chrome-512x512.png": {
+    "width": 512,
+    "height": 512,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/apple-touch-icon-120x120.png": {
+    "width": 120,
+    "height": 120,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/apple-touch-icon-152x152.png": {
+    "width": 152,
+    "height": 152,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/apple-touch-icon-180x180.png": {
+    "width": 180,
+    "height": 180,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/apple-touch-icon-76x76.png": {
+    "width": 76,
+    "height": 76,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/favicon-128x128.png": {
+    "width": 128,
+    "height": 128,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/favicon-16x16.png": {
+    "width": 16,
+    "height": 16,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/favicon-256x256.png": {
+    "width": 256,
+    "height": 256,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/favicon-32x32.png": {
+    "width": 32,
+    "height": 32,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/favicon-48x48.png": {
+    "width": 48,
+    "height": 48,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/favicon-64x64.png": {
+    "width": 64,
+    "height": 64,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/favicon-96x96.png": {
+    "width": 96,
+    "height": 96,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/mstile-144x144.png": {
+    "width": 144,
+    "height": 144,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/mstile-150x150.png": {
+    "width": 150,
+    "height": 150,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/mstile-310x150.png": {
+    "width": 310,
+    "height": 150,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/mstile-310x310.png": {
+    "width": 310,
+    "height": 310,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/favicons/mstile-70x70.png": {
+    "width": 70,
+    "height": 70,
+    "alt": {
+      "en": "Heritage Decks favicon brand icon",
+      "hr": "Heritage Decks favicon ikona brenda",
+      "it": "Heritage Decks favicon icona del brand"
+    }
+  },
+  "images/branding/logos/LogoV3-square.svg": {
+    "width": 512,
+    "height": 512,
+    "alt": {
+      "en": "Heritage Decks - Premium Marine Teak Decking official logo",
+      "hr": "Heritage Decks - Vrhunske brodske tikove palube službeni logotip",
+      "it": "Heritage Decks - Coperte in teak marino di lusso logo ufficiale"
+    }
+  },
+  "images/branding/logos/LogoV3.svg": {
+    "width": 1000,
+    "height": 200,
+    "alt": {
+      "en": "Heritage Decks - Premium Marine Teak Decking official logo",
+      "hr": "Heritage Decks - Vrhunske brodske tikove palube službeni logotip",
+      "it": "Heritage Decks - Coperte in teak marino di lusso logo ufficiale"
+    }
+  },
+  "images/branding/social-media/Facebook/Facebook - Cover (820×360).jpg": {
+    "width": 820,
+    "height": 360,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Facebook/Facebook - Profile (360×360).jpg": {
+    "width": 360,
+    "height": 360,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Facebook/Facebook - Shared (1200×630).jpg": {
+    "width": 1200,
+    "height": 630,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Facebook/Facebook - Square (1200×1200).jpg": {
+    "width": 1200,
+    "height": 1200,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Facebook/Facebook - Stories (1080×1920).jpg": {
+    "width": 1080,
+    "height": 1920,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Instagram/Instagram - Landscape (1080×608).jpg": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Instagram/Instagram - Profile (400×400).jpg": {
+    "width": 400,
+    "height": 400,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Instagram/Instagram - Square (1080×1080).jpg": {
+    "width": 1080,
+    "height": 1080,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Instagram/Instagram - Stories & Reels (1080×1920).jpg": {
+    "width": 1080,
+    "height": 1920,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/LinkedIn/LinkedIn - Cover (1584×396).jpg": {
+    "width": 1584,
+    "height": 396,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/LinkedIn/LinkedIn - Landscape (1200×628).jpg": {
+    "width": 1200,
+    "height": 628,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/LinkedIn/LinkedIn - Profile (400×400).jpg": {
+    "width": 400,
+    "height": 400,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/LinkedIn/LinkedIn - Square (1200×1200).jpg": {
+    "width": 1200,
+    "height": 1200,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Pinterest/Pinterest - Profile (400×400).jpg": {
+    "width": 400,
+    "height": 400,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Pinterest/Pinterest - Square (1000×1000).jpg": {
+    "width": 1000,
+    "height": 1000,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Pinterest/Pinterest - Standard (1000×1500).jpg": {
+    "width": 1000,
+    "height": 1500,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Pinterest/Pinterest - Story (1080×1920).jpg": {
+    "width": 1080,
+    "height": 1920,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/TikTok/TikTok - Profile (400×400).jpg": {
+    "width": 400,
+    "height": 400,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/TikTok/TikTok - Video Cover (1080×1920).jpg": {
+    "width": 1080,
+    "height": 1920,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Twitter/Twitter - Header (1500×500).jpg": {
+    "width": 1500,
+    "height": 500,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Twitter/Twitter - Landscape (1200×675).jpg": {
+    "width": 1200,
+    "height": 675,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Twitter/Twitter - Profile (400×400).jpg": {
+    "width": 400,
+    "height": 400,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/Twitter/Twitter - Square (1080×1080).jpg": {
+    "width": 1080,
+    "height": 1080,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/YouTube/YouTube - Banner (2560×1440).jpg": {
+    "width": 2560,
+    "height": 1440,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/YouTube/YouTube - Channel Icon (1024×1024).jpg": {
+    "width": 1024,
+    "height": 1024,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/branding/social-media/YouTube/YouTube - Thumbnail (1280×720).jpg": {
+    "width": 1280,
+    "height": 720,
+    "alt": {
+      "en": "Heritage Decks social media visual",
+      "hr": "Heritage Decks vizual za društvene mreže",
+      "it": "Heritage Decks visual per social media"
+    }
+  },
+  "images/design/heritage-decks-design-001.webp": {
+    "width": 1364,
+    "height": 2048,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 001",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 001",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 001"
+    }
+  },
+  "images/design/heritage-decks-design-002.webp": {
+    "width": 1364,
+    "height": 2048,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 002",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 002",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 002"
+    }
+  },
+  "images/design/heritage-decks-design-003.webp": {
+    "width": 2048,
+    "height": 1365,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 003",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 003",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 003"
+    }
+  },
+  "images/design/heritage-decks-design-004.webp": {
+    "width": 1152,
+    "height": 2048,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 004",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 004",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 004"
+    }
+  },
+  "images/design/heritage-decks-design-005.webp": {
+    "width": 1152,
+    "height": 2048,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 005",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 005",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 005"
+    }
+  },
+  "images/design/heritage-decks-design-006.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 006",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 006",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 006"
+    }
+  },
+  "images/design/heritage-decks-design-007.webp": {
+    "width": 1536,
+    "height": 2048,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 007",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 007",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 007"
+    }
+  },
+  "images/design/heritage-decks-design-008.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 008",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 008",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 008"
+    }
+  },
+  "images/design/heritage-decks-design-009.webp": {
+    "width": 1536,
+    "height": 2048,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 009",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 009",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 009"
+    }
+  },
+  "images/design/heritage-decks-design-010.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 010",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 010",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 010"
+    }
+  },
+  "images/design/heritage-decks-design-011.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 011",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 011",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 011"
+    }
+  },
+  "images/design/heritage-decks-design-012.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 012",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 012",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 012"
+    }
+  },
+  "images/design/heritage-decks-design-013.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 013",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 013",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 013"
+    }
+  },
+  "images/design/heritage-decks-design-014.webp": {
+    "width": 1536,
+    "height": 2048,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 014",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 014",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 014"
+    }
+  },
+  "images/design/heritage-decks-design-015.webp": {
+    "width": 1536,
+    "height": 2048,
+    "alt": {
+      "en": "Heritage Decks architectural marine wood deck craftsmanship showcase 015",
+      "hr": "Heritage Decks arhitektonska i nautička obrada drvenih paluba 015",
+      "it": "Heritage Decks lavorazione architettonica e nautica coperte in legno 015"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-001.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-001",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-001",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-001"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-002.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-002",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-002",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-002"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-003.webp": {
+    "width": 1080,
+    "height": 852,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-003",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-003",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-003"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-004.webp": {
+    "width": 1080,
+    "height": 852,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-004",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-004",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-004"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-005.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-005",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-005",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-005"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-006.webp": {
+    "width": 1080,
+    "height": 852,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-006",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-006",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-006"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-007.webp": {
+    "width": 1080,
+    "height": 852,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-007",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-007",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-007"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-008.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-008",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-008",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-008"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-009.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-009",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-009",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-009"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-010.webp": {
+    "width": 1080,
+    "height": 852,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-010",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-010",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-010"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-011.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-011",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-011",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-011"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-012.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-012",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-012",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-012"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-013.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-013",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-013",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-013"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-014.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-014",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-014",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-014"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-015.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-015",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-015",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-015"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-016.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-016",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-016",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-016"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-017.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-017",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-017",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-017"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-018.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-018",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-018",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-018"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-019.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-019",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-019",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-019"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-020.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-020",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-020",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-020"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-021.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-021",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-021",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-021"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-022.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-022",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-022",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-022"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-023.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-023",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-023",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-023"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-024.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-024",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-024",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-024"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-025.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-025",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-025",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-025"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-026.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-026",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-026",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-026"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-027.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-027",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-027",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-027"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-028.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-028",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-028",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-028"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-029.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-029",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-029",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-029"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-030.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-030",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-030",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-030"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-031.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-031",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-031",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-031"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-032.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-032",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-032",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-032"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-033.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-033",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-033",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-033"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-034.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-034",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-034",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-034"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-035.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-035",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-035",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-035"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-036.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-036",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-036",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-036"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-037.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-037",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-037",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-037"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-038.webp": {
+    "width": 1080,
+    "height": 852,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-038",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-038",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-038"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-039.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-039",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-039",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-039"
+    }
+  },
+  "images/work/brazil/hd-gallery-brazil-040.webp": {
+    "width": 1080,
+    "height": 852,
+    "alt": {
+      "en": "Custom teak yacht deck project Brazil - Detail brazil-040",
+      "hr": "Projekt izrade tikove palube za jahtu Brazil - Detalj brazil-040",
+      "it": "Progetto di coperta in teak personalizzata yacht Brazil - Dettaglio brazil-040"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-001.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-001",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-001",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-001"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-002.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-002",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-002",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-002"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-003.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-003",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-003",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-003"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-004.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-004",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-004",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-004"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-005.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-005",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-005",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-005"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-006.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-006",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-006",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-006"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-007.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-007",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-007",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-007"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-008.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-008",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-008",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-008"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-009.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-009",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-009",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-009"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-010.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-010",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-010",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-010"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-011.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-011",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-011",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-011"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-012.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-012",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-012",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-012"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-013.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-013",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-013",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-013"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-014.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-014",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-014",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-014"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-015.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-015",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-015",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-015"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-016.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-016",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-016",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-016"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-017.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-017",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-017",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-017"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-018.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-018",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-018",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-018"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-019.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-019",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-019",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-019"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-020.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-020",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-020",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-020"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-021.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-021",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-021",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-021"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-022.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-022",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-022",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-022"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-023.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-023",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-023",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-023"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-024.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-024",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-024",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-024"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-025.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-025",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-025",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-025"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-026.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-026",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-026",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-026"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-027.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-027",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-027",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-027"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-028.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-028",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-028",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-028"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-029.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-029",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-029",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-029"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-030.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-030",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-030",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-030"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-031.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-031",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-031",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-031"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-032.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-032",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-032",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-032"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-033.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-033",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-033",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-033"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-034.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-034",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-034",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-034"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-035.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-035",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-035",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-035"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-036.webp": {
+    "width": 719,
+    "height": 1080,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-036",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-036",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-036"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-037.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-037",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-037",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-037"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-038.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-038",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-038",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-038"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-039.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-039",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-039",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-039"
+    }
+  },
+  "images/work/crnobori/hd-gallery-crnobori-040.webp": {
+    "width": 1080,
+    "height": 829,
+    "alt": {
+      "en": "Custom marine deck installation Crnobori - Detail crnobori-040",
+      "hr": "Instalacija brodske tikove palube Crnobori - Detalj crnobori-040",
+      "it": "Installazione di coperta nautica in teak Crnobori - Dettaglio crnobori-040"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-001.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-001",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-001",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-001"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-002.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-002",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-002",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-002"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-003.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-003",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-003",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-003"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-004.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-004",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-004",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-004"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-005.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-005",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-005",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-005"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-006.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-006",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-006",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-006"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-007.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-007",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-007",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-007"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-008.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-008",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-008",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-008"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-009.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-009",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-009",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-009"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-010.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-010",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-010",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-010"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-011.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-011",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-011",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-011"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-012.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-012",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-012",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-012"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-013.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-013",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-013",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-013"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-014.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-014",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-014",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-014"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-015.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-015",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-015",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-015"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-016.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-016",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-016",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-016"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-017.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-017",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-017",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-017"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-018.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-018",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-018",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-018"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-019.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-019",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-019",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-019"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-020.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-020",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-020",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-020"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-021.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-021",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-021",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-021"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-022.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-022",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-022",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-022"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-023.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-023",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-023",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-023"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-024.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-024",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-024",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-024"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-025.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-025",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-025",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-025"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-026.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-026",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-026",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-026"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-027.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-027",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-027",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-027"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-028.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-028",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-028",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-028"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-029.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-029",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-029",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-029"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-030.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-030",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-030",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-030"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-031.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-031",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-031",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-031"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-032.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-032",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-032",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-032"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-033.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-033",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-033",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-033"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-034.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-034",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-034",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-034"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-035.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-035",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-035",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-035"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-036.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-036",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-036",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-036"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-037.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-037",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-037",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-037"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-038.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-038",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-038",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-038"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-039.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-039",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-039",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-039"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-040.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-040",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-040",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-040"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-041.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-041",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-041",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-041"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-042.webp": {
+    "width": 608,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-042",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-042",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-042"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-043.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-043",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-043",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-043"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-044.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-044",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-044",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-044"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-045.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-045",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-045",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-045"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-046.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-046",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-046",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-046"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-047.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-047",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-047",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-047"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-048.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-048",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-048",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-048"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-049.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-049",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-049",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-049"
+    }
+  },
+  "images/work/deanja/hd-gallery-deanja-050.webp": {
+    "width": 1080,
+    "height": 608,
+    "alt": {
+      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-050",
+      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-050",
+      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-050"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-001.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-001",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-001",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-001"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-002.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-002",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-002",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-002"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-003.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-003",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-003",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-003"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-004.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-004",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-004",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-004"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-005.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-005",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-005",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-005"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-006.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-006",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-006",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-006"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-007.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-007",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-007",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-007"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-008.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-008",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-008",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-008"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-009.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-009",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-009",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-009"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-010.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-010",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-010",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-010"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-011.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-011",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-011",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-011"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-012.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-012",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-012",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-012"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-013.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-013",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-013",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-013"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-014.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-014",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-014",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-014"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-015.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-015",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-015",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-015"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-016.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-016",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-016",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-016"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-017.webp": {
+    "width": 1080,
+    "height": 720,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-017",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-017",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-017"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-018.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-018",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-018",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-018"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-019.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-019",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-019",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-019"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-020.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-020",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-020",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-020"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-021.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-021",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-021",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-021"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-022.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-022",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-022",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-022"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-023.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-023",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-023",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-023"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-024.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-024",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-024",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-024"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-025.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-025",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-025",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-025"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-026.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-026",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-026",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-026"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-027.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-027",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-027",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-027"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-028.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-028",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-028",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-028"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-029.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-029",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-029",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-029"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-030.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-030",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-030",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-030"
+    }
+  },
+  "images/work/decks/hd-gallery-decks-031.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Bespoke custom boat deck craftsmanship - Detail decks-031",
+      "hr": "Vrhunska izrada unikatnih brodskih paluba - Detalj decks-031",
+      "it": "Lavorazione artigianale su misura di coperte per barche - Dettaglio decks-031"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-001.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-001",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-001",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-001"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-002.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-002",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-002",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-002"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-003.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-003",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-003",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-003"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-004.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-004",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-004",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-004"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-005.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-005",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-005",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-005"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-006.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-006",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-006",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-006"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-007.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-007",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-007",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-007"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-008.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-008",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-008",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-008"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-009.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-009",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-009",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-009"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-010.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-010",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-010",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-010"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-011.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-011",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-011",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-011"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-012.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-012",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-012",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-012"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-013.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-013",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-013",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-013"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-014.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-014",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-014",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-014"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-015.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-015",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-015",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-015"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-016.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-016",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-016",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-016"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-017.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-017",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-017",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-017"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-018.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-018",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-018",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-018"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-019.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-019",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-019",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-019"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-020.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-020",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-020",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-020"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-021.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-021",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-021",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-021"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-022.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-022",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-022",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-022"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-023.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-023",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-023",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-023"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-024.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-024",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-024",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-024"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-025.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-025",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-025",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-025"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-026.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-026",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-026",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-026"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-027.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-027",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-027",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-027"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-028.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-028",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-028",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-028"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-029.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-029",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-029",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-029"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-030.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-030",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-030",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-030"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-031.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-031",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-031",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-031"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-032.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-032",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-032",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-032"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-033.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-033",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-033",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-033"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-034.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-034",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-034",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-034"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-035.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-035",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-035",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-035"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-036.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-036",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-036",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-036"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-037.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-037",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-037",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-037"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-038.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-038",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-038",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-038"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-039.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-039",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-039",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-039"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-040.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-040",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-040",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-040"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-041.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-041",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-041",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-041"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-042.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-042",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-042",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-042"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-043.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-043",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-043",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-043"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-044.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-044",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-044",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-044"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-045.webp": {
+    "width": 1080,
+    "height": 810,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-045",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-045",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-045"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-046.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-046",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-046",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-046"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-047.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-047",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-047",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-047"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-048.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-048",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-048",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-048"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-049.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-049",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-049",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-049"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-050.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-050",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-050",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-050"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-051.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-051",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-051",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-051"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-052.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-052",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-052",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-052"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-053.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-053",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-053",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-053"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-054.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-054",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-054",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-054"
+    }
+  },
+  "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-055.webp": {
+    "width": 810,
+    "height": 1080,
+    "alt": {
+      "en": "Motor yacht Enigma Sibenik premium deck refit - Detail enigma-sibenik-055",
+      "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-055",
+      "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-055"
+    }
+  }
+}

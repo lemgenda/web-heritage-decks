@@ -1,0 +1,267 @@
+{
+  "meta": {
+    "title": "Heritage Decks | Coperte in Teak Nautico di Lusso e Falegnameria Navale su Misura",
+    "description": "Oltre 30 anni di eccellenza artigianale navale, scansione laser 3D e refit coperte in teak presso il Cantiere Navale Avangard Pola, Istria, Croazia. Maestro d'ascia Perica Bajs."
+  },
+  "nav": {
+    "skipToContent": "Salta al contenuto principale",
+    "home": "Home",
+    "about": "Chi Siamo",
+    "services": "Servizi",
+    "process": "Metodo",
+    "usp": "Perché Noi",
+    "gallery": "Portfolio",
+    "faq": "FAQ",
+    "contact": "Contatti",
+    "menuToggle": "Attiva menu di navigazione",
+    "themeToggle": "Cambia tema scuro e chiaro",
+    "languageSelect": "Seleziona lingua",
+    "brandTagline": "Arte delle Coperte in Teak",
+    "homeAria": "Heritage Decks Pagina Principale",
+    "mainNavAria": "Navigazione principale",
+    "portfolioFiltersAria": "Filtri galleria progetti",
+    "returnHome": "Torna alla pagina iniziale"
+  },
+  "hero": {
+    "badge": "Oltre 30 Anni di Maestria nella Falegnameria Navale",
+    "title": "Eleganza Senza Tempo e Coperte Navali di Massima Precisione",
+    "subtitle": "Guidati dal maestro d'ascia Perica Bajs presso lo storico Cantiere Navale Avangard di Pola, uniamo tre decenni di eccellenza artigianale alla scansione laser 3D per yacht di lusso in tutto l'Adriatico e Mediterraneo.",
+    "ctaPrimary": "Richiedi Consulenza",
+    "ctaSecondary": "Scopri i Progetti"
+  },
+  "about": {
+    "badge": "La Nostra Tradizione & Origini",
+    "title": "Tre Decenni di Impeccabile Artigianato Nautico",
+    "description": "Radicato nella secolare tradizione cantieristica di Pola e con sede operativa all'interno del Cantiere Navale Avangard, Heritage Decks è guidato dal maestro d'ascia Perica Bajs. Da oltre 30 anni, il nostro laboratorio realizza coperte in teak su misura, unendo la selezione manuale delle essenze più pregiate all'incollaggio sottovuoto di altissima precisione.",
+    "founderTitle": "Maestro d'Ascia e Fondatore",
+    "founderName": "Perica Bajs",
+    "founderLocation": "Cantiere Navale Avangard, Pola, Istria, Croazia",
+    "stat1Value": "30+",
+    "stat1Label": "Anni di Maestria Artigianale",
+    "stat2Value": "350+",
+    "stat2Label": "Coperte Navali Realizzate",
+    "stat3Value": "100%",
+    "stat3Label": "Teak Birmano ed Eco Materiali",
+    "stat4Value": "0.5mm",
+    "stat4Label": "Precisione Scansione Laser"
+  },
+  "services": {
+    "badge": "Le Nostre Competenze",
+    "title": "Soluzioni Nautiche Specializzate e Lavorazione del Teak",
+    "subtitle": "Servizi completi di progettazione, costruzione e refit di coperte per barche a motore, a vela e superyacht.",
+    "decking": {
+      "title": "Coperte in Teak su Misura",
+      "description": "Pregiato teak birmano tradizionale e innovativi compositi sintetici marini, posati con sistemi di comento ad altissima resistenza."
+    },
+    "scanning": {
+      "title": "Scansione Laser 3D e Modellazione CAD",
+      "description": "Rilievo digitale sub-millimetrico delle geometrie del ponte, azzerando gli errori delle dime manuali e garantendo una prefabbricazione impeccabile."
+    },
+    "refit": {
+      "title": "Refit e Ripristino Coperte",
+      "description": "Rimozione completa del vecchio teak, livellamento del ponte, rifacimento dei comenti, levigatura di precisione e ripristino strutturale."
+    },
+    "carpentry": {
+      "title": "Falegnameria Nautica Artigianale",
+      "description": "Costruzione su misura di capodibanda, carabottini, tavoli pozzetto in teak, plancette di poppa ed elementi navali personalizzati."
+    },
+    "maintenance": {
+      "title": "Manutenzione Preventiva e Protezione",
+      "description": "Trattamenti protettivi nano-tecnologici ecologici, pulizia biologica profonda, rimozione muffe e protezione stagionale del teak."
+    },
+    "survey": {
+      "title": "Perizia Tecnica e Consulenza",
+      "description": "Ispezione dello stato del sottofondo della coperta, misurazione dell'umidità, controllo dell'elasticità dei comenti e piano di ripristino."
+    }
+  },
+  "process": {
+    "badge": "Processo Digitale di Refit in 4 Fasi",
+    "title": "Il Nostro Processo di Ingegneria e Costruzione",
+    "subtitle": "Un flusso di lavoro rigoroso in 4 fasi che garantisce la perfezione millimetrica dal primo rilievo alla consegna finale.",
+    "step1": {
+      "num": "01",
+      "title": "Scansione 3D e Gemello Digitale",
+      "description": "Il rilievo laser di precisione a bordo riproduce l'esatta geometria e curvatura della coperta in poche ore."
+    },
+    "step2": {
+      "num": "02",
+      "title": "Prefabbricazione in Laboratorio",
+      "description": "Lavorazione CNC, selezione manuale di venature verticali (quarter-sawn) e assemblaggio sottovuoto in ambiente termo-regolato."
+    },
+    "step3": {
+      "num": "03",
+      "title": "Incollaggio Sottovuoto a Bordo",
+      "description": "Installazione rapida e pulita sull'imbarcazione mediante colle polimeriche ed epossidiche marine senza l'uso di viti."
+    },
+    "step4": {
+      "num": "04",
+      "title": "Finitura e Consegna",
+      "description": "Levigatura orbitale progressiva, collaudo dei comenti, applicazione di sigillanti traspiranti e verbale di consegna con il cliente."
+    }
+  },
+  "usp": {
+    "badge": "Perché Heritage Decks",
+    "title": "Il Punto di Riferimento nel Legno Nautico di Pregio",
+    "subtitle": "I vantaggi costruttivi e materici che rendono le nostre coperte eccezionali.",
+    "item1Title": "Teak Certificato FSC a Venatura Stretta",
+    "item1Desc": "Selezioniamo esclusivamente teak a fibra verticale (quarter-sawn) per garantire massima stabilità termica e durata negli anni.",
+    "item2Title": "Incollaggio Sottovuoto Senza Viti",
+    "item2Desc": "Nessun foro nello scafo: azzeriamo per sempre il rischio di infiltrazioni d'acqua, corrosione o delaminazione della struttura sandwich.",
+    "item3Title": "Hub al Cantiere Avangard Pola e Squadra Mobile",
+    "item3Desc": "Laboratorio dedicato all'interno del Cantiere Navale Avangard con interventi mobili in tutti i porti di Croazia, Italia e Slovenia.",
+    "item4Title": "Garanzia sui Comenti Gommati",
+    "item4Desc": "Utilizzo di polimeri marini elastici di ultima generazione altamente resistenti ai raggi UV e all'acqua salata, senza ritiri né fessurazioni."
+  },
+  "gallery": {
+    "badge": "Progetti Realizzati",
+    "title": "Galleria dei Nostri Lavori",
+    "subtitle": "Scoprite le nostre più recenti installazioni in teak, restauri e dettagli su yacht di lusso.",
+    "filterAll": "Tutti i Progetti",
+    "filterDecks": "Nuove Coperte",
+    "filterRefit": "Refit & Ripristino",
+    "filterDetails": "Dettagli d'Arte",
+    "viewMore": "Vedi Dettagli",
+    "project1Title": "Coperta in Teak Personalizzata Motoryacht",
+    "project1Tag": "Cantiere Navale Avangard Pola",
+    "project2Title": "Refit Coperta Yacht Enigma Šibenik",
+    "project2Tag": "Refit Adriatico",
+    "project3Title": "Trincarini e Bordature su Misura",
+    "project3Tag": "Maestria Artigianale",
+    "project4Title": "Installazione Pozzetto e Specchio di Poppa",
+    "project4Tag": "Teak a Fibra Verticale",
+    "project5Title": "Refit Yacht di Lusso Deanja",
+    "project5Tag": "Rifacimento Completo",
+    "project6Title": "Plancetta Poppiera e Carabottini su Misura",
+    "project6Tag": "Lavorazione Navale d'Ascia",
+    "modalClose": "Chiudi galleria",
+    "prevImage": "Precedente",
+    "nextImage": "Successiva",
+    "imageOf": "di",
+    "photoCount": "foto",
+    "openProject": "Guarda galleria progetto",
+    "projectDecksTitle": "Ponti in Teak su Misura e Cockpit",
+    "projectDecksTag": "Cantiere Avangard Pola",
+    "projectDecksDesc": "Dime digitali di precisione, teak birmano selezionato a mano e incollaggio sottovuoto presso il cantiere Avangard Pola.",
+    "projectenigmaEnigmaTitle": "Motor Yacht Enigma Sebenico Refit Completo",
+    "projectenigmaEnigmaTag": "Refit Superyacht Adriatico",
+    "projectenigmaEnigmaDesc": "Rimozione completa delle vecchie doghe, livellamento laser della coperta e posa di ponti in teak a più zone.",
+    "projectDeanjaTitle": "Yacht di Lusso Deanja Restauro Completo",
+    "projectDeanjaTag": "Refit di Lusso Chiavi in Mano",
+    "projectDeanjaDesc": "Sostituzione completa del ponte, cornici curve rifinite a mano e calafataggio ad alte prestazioni.",
+    "projectCrnoboriTitle": "Ponte Nautico Personalizzato Crnobori",
+    "projectCrnoboriTag": "Teak a Venatura Verticale",
+    "projectCrnoboriDesc": "Realizzazione di pozzetto, gradini di poppa e prendisole di prua con venatura verticale per massima stabilità.",
+    "projectBrazilTitle": "Yacht Brazil Piattaforma Bagno e Dettagli",
+    "projectBrazilTag": "Ebanisteria Nautica su Misura",
+    "projectBrazilDesc": "Boccaporti a filo integrati, rivestimento della plancetta idraulica e carabottini personalizzati."
+  },
+  "faq": {
+    "badge": "Domande e Risposte",
+    "title": "Domande Frequenti",
+    "subtitle": "Tutto quello che c'è da sapere sulle nostre coperte in teak, sulle tempistiche e sulla manutenzione.",
+    "q1": "Cos'è la scansione laser 3D della coperta e perché è superiore?",
+    "a1": "La scansione laser 3D acquisisce milioni di punti dello spazio sul vostro yacht con precisione sub-millimetrica in poche ore. Elimina le imperfezioni delle dime di cartone, consente di prefabbricare il 90% della coperta in cantiere e riduce al minimo il fermo barca nel marina.",
+    "q2": "Quali essenze di legno utilizzate per le coperte?",
+    "a2": "Lavoriamo principalmente con autentico Teak Birmano (Tectona grandis) di prima scelta corredato da rigorosa tracciabilità sostenibile. Realizziamo inoltre coperte sintetiche ed essenze alternative eco-sostenibili certificate.",
+    "q3": "Quanto tempo richiede un tipico intervento di refit del ponte?",
+    "a3": "Grazie alla prefabbricazione in laboratorio, i lavori a bordo durano solitamente solo 7-14 giorni per motoryacht e barche a vela di medie dimensioni. Il ciclo totale dal rilievo al collaudo richiede da 3 a 5 settimane.",
+    "q4": "Si utilizzano viti per fissare la nuova coperta?",
+    "a4": "Assolutamente no. Utilizziamo avanzate tecniche di incollaggio sottovuoto con adesivi polimerici marini. Senza forare il ponte di coperta, si mantiene una totale impermeabilità prevenendo la delaminazione della vetroresina.",
+    "q5": "Dove si trova il vostro cantiere e quale raggio d'azione coprite?",
+    "a5": "La nostra sede principale e laboratorio si trovano all'interno dello storico Cantiere Navale Avangard a Pola, in Istria. La nostra squadra mobile opera attivamente lungo tutto l'Adriatico, compresi i porti di Slovenia e Italia (Trieste, Venezia, Monfalcone, Ancona)."
+  },
+  "contact": {
+    "badge": "Contattaci",
+    "title": "Richiedi un Rilievo e Preventivo Gratuito",
+    "subtitle": "Parla del tuo yacht direttamente con il maestro d'ascia Perica Bajs. Effettuiamo perizie tecniche direttamente sul posto.",
+    "contactPersonTitle": "Maestro d'Ascia",
+    "contactPersonName": "Perica Bajs",
+    "companyTitle": "Heritage Decks d.o.o.",
+    "companyAddress": "Cantiere Navale Avangard, Riva 1, 52100 Pola, Istria, Croazia",
+    "nameLabel": "Nome e Cognome",
+    "namePlaceholder": "es. Comandante Marco Rossi",
+    "emailLabel": "Indirizzo Email",
+    "emailPlaceholder": "marco@esempio.it",
+    "phoneLabel": "Numero di Telefono",
+    "phonePlaceholder": "+385 98 000 0000",
+    "vesselLabel": "Tipo e Modello Imbarcazione",
+    "vesselPlaceholder": "es. Riva 68 Ego / Marina di Rovigno",
+    "serviceLabel": "Servizio Richiesto",
+    "serviceDefault": "Seleziona un servizio...",
+    "serviceOpt1": "Nuova Coperta in Teak Completa",
+    "serviceOpt2": "Refit e Ripristino Ponte Esistente",
+    "serviceOpt3": "Scansione Laser 3D e Digitalizzazione",
+    "serviceOpt4": "Falegnameria su Misura / Tavolo / Plancetta",
+    "messageLabel": "Descrizione del Progetto",
+    "messagePlaceholder": "Descrivici la tua barca, lo stato attuale della coperta e le tue tempistiche...",
+    "consentText": "Accetto il trattamento dei miei dati personali ai sensi dell'Informativa sulla Privacy allo scopo di ricevere un preventivo.",
+    "consentLink": "Informativa sulla Privacy",
+    "submitBtn": "Invia Richiesta di Progetto",
+    "sending": "Invio della richiesta in corso...",
+    "success": "Grazie! La tua richiesta è stata inviata con successo. Il maestro d'ascia Perica Bajs e il nostro team ti contatteranno entro 24 ore.",
+    "errorGeneral": "Si è verificato un errore durante l'invio. Si prega di verificare i campi e riprovare.",
+    "infoLocation": "Cantiere Navale Avangard, Pola, Istria, Croazia",
+    "infoPhone": "+385 98 000 0000",
+    "infoEmail": "info@heritage-decks.com",
+    "infoHours": "Lun - Sab: 08:00 - 18:00 CET"
+  },
+  "footer": {
+    "tagline": "Oltre 30 anni di maestria nella creazione di coperte in teak marino nell'Adriatico.",
+    "quickLinks": "Link Rapidi",
+    "servicesTitle": "Servizi",
+    "legalTitle": "Informazioni Legali",
+    "privacyPolicy": "Informativa sulla Privacy",
+    "accessibility": "Dichiarazione di Accessibilità",
+    "terms": "Termini di Servizio",
+    "copyright": "© 2026 Heritage Decks. Tutti i diritti riservati. Realizzato da Perica Bajs, Cantiere Navale Avangard Pola.",
+    "backToTop": "Torna all'inizio della pagina",
+    "complianceNote": "Conforme WCAG 2.2 AA / AAA • Istria, Croazia"
+  },
+  "cookie": {
+    "title": "Preferenze di Privacy e Cookie",
+    "text": "Utilizziamo i cookie per migliorare la navigazione, analizzare le prestazioni e garantire la piena conformità al GDPR. Nessun cookie facoltativo viene caricato senza il tuo consenso.",
+    "accept": "Accetta Tutti",
+    "decline": "Rifiuta Non Essenziali",
+    "learnMore": "Scopri di più nell'Informativa sulla Privacy"
+  },
+  "accessibility": {
+    "badge": "Impegno per l'Accessibilità",
+    "title": "Dichiarazione di Conformità WCAG 2.2 AA / AAA",
+    "intro": "Heritage Decks si impegna a garantire l'accessibilità digitale a tutti gli utenti. Miglioriamo costantemente l'esperienza d'uso e applichiamo gli standard di accessibilità pertinenti.",
+    "measures": "Misure Adottate per l'Accessibilità",
+    "measuresDesc": "Adottiamo indicatori di focus ad alto contrasto (SC 2.4.13), protezione visibilità del focus dalle barre fisse (SC 2.4.11 e 2.4.12), target touch da 48px conformi a WCAG 2.5.8, riduzione del movimento (SC 2.3.3), identificazione dello scopo dei campi (SC 1.3.5), focus trap nei modali e piena compatibilità con lettori di schermo (ARIA).",
+    "status": "Stato di Conformità",
+    "statusDesc": "Le Linee guida per l'accessibilità dei contenuti Web (WCAG) definiscono i requisiti per migliorare l'accessibilità. Heritage Decks è pienamente conforme a WCAG 2.2 Livello AA e soddisfa i principali criteri del Livello AAA.",
+    "feedback": "Feedback e Contatti",
+    "feedbackDesc": "Apprezziamo il vostro feedback sull'accessibilità di Heritage Decks. Segnalateci qualsiasi difficoltà riscontrata."
+  },
+  "privacy": {
+    "badge": "Protezione dei Dati",
+    "title": "Informativa sulla Privacy (GDPR)",
+    "intro": "Heritage Decks rispetta la vostra privacy e protegge i vostri dati personali in piena conformità al Regolamento Generale sulla Protezione dei Dati (GDPR).",
+    "controller": "Titolare del Trattamento",
+    "controllerDesc": "Heritage Decks d.o.o., Cantiere Navale Avangard, Pola, Istria, Croazia. Email: privacy@heritage-decks.com.",
+    "collection": "Dati Raccolti",
+    "collectionDesc": "Raccogliamo esclusivamente le informazioni inviate volontariamente tramite il nostro modulo di contatto (nome, email, telefono, dati imbarcazione) al solo fine di elaborare il preventivo richiesto.",
+    "rights": "I Vostri Diritti GDPR",
+    "rightsDesc": "Avete il diritto di accedere, rettificare, cancellare o limitare il trattamento dei vostri dati personali in qualsiasi momento contattando il nostro referente privacy."
+  },
+  "terms": {
+    "badge": "Condizioni Legali",
+    "title": "Termini e Condizioni",
+    "intro": "I presenti Termini disciplinano l'utilizzo del sito web Heritage Decks e i contatti commerciali avviati tramite i nostri canali digitali.",
+    "services": "Preventivi di Lavorazione Nautica",
+    "servicesDesc": "Tutte le stime e tempistiche fornite tramite modulo online hanno carattere puramente informativo fino a conferma scritta tramite contratto navale formale a seguito di sopralluogo tecnico.",
+    "ip": "Proprietà Intellettuale",
+    "ipDesc": "Tutte le fotografie, modelli 3D, testi e grafiche presenti su questo sito sono di proprietà esclusiva di Heritage Decks e protetti dalle leggi internazionali sul diritto d'autore."
+  },
+  "form": {
+    "errRequired": "Questo campo è obbligatorio.",
+    "errEmail": "Si prega di inserire un indirizzo email valido.",
+    "errPhone": "Si prega di inserire un numero di telefono valido.",
+    "errConsent": "È necessario accettare l'informativa sulla privacy per inviare la richiesta.",
+    "errSummary": "Si prega di correggere gli errori evidenziati nel modulo prima dell'invio.",
+    "sending": "Invio della richiesta in corso...",
+    "successMsg": "Grazie! Il maestro d'ascia Perica Bajs e il nostro team vi contatteranno entro 24 ore."
+  }
+}
