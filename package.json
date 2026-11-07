@@ -1,0 +1,15 @@
+{
+  "name": "web-heritage-decks",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Heritage Decks - Luxury Marine Teak Decking & Custom Yacht Carpentry",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^8.3.6"
+  }
+}

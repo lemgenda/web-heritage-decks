@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://heritage-decks.com/</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://heritage-decks.com/?lang=en" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heritage-decks.com/?lang=hr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://heritage-decks.com/?lang=it" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heritage-decks.com/" />
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://heritage-decks.com/privacy-policy.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://heritage-decks.com/privacy-policy.html?lang=en" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heritage-decks.com/privacy-policy.html?lang=hr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://heritage-decks.com/privacy-policy.html?lang=it" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heritage-decks.com/privacy-policy.html" />
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://heritage-decks.com/accessability-statement.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://heritage-decks.com/accessability-statement.html?lang=en" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heritage-decks.com/accessability-statement.html?lang=hr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://heritage-decks.com/accessability-statement.html?lang=it" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heritage-decks.com/accessability-statement.html" />
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://heritage-decks.com/terms.html</loc>
+    <xhtml:link rel="alternate" hreflang="en" href="https://heritage-decks.com/terms.html?lang=en" />
+    <xhtml:link rel="alternate" hreflang="hr" href="https://heritage-decks.com/terms.html?lang=hr" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://heritage-decks.com/terms.html?lang=it" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://heritage-decks.com/terms.html" />
+    <lastmod>2026-11-07</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.3</priority>
+  </url>
+</urlset>
+

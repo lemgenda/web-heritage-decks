@@ -1,0 +1,15 @@
+# Dependencies & Environment
+node_modules/
+.env
+.env.*
+.DS_Store
+Thumbs.db
+
+# Build & Dev Cache
+.vite/
+.chrome-temp/
+*.log
+
+# Git / Editor
+.vscode/
+.idea/

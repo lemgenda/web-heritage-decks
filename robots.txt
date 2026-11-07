@@ -1,0 +1,6 @@
+User-agent: *
+Allow: /
+Disallow: /js/
+
+Sitemap: https://heritage-decks.com/sitemap.xml
+
