@@ -35,3 +35,4 @@ for (const file of ['robots.txt', 'sitemap.xml']) {
 }
 
 console.log('Post-build static assets copy complete.');
+
