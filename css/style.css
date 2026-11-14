@@ -353,6 +353,21 @@ button {
   gap: 0.5rem;
 }
 
+.header-actions .lang-switcher,
+.header-actions [data-theme-toggle] {
+  display: none;
+}
+
+.nav-drawer-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-top: 1.5rem;
+  padding-top: 1.5rem;
+  border-top: 1px solid var(--border-subtle);
+}
+
 .btn-icon {
   width: var(--touch-target);
   height: var(--touch-target);
@@ -1593,6 +1608,15 @@ details[open] .faq-icon {
 /* Desktop & Up (min-width: 1024px) */
 @media (min-width: 1024px) {
   .menu-toggle {
+    display: none;
+  }
+
+  .header-actions .lang-switcher,
+  .header-actions [data-theme-toggle] {
+    display: flex;
+  }
+
+  .nav-drawer-controls {
     display: none;
   }
 
