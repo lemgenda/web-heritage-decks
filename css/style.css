@@ -1624,10 +1624,6 @@ details[open] .faq-icon {
     white-space: nowrap;
   }
 
-  .services-grid {
-    grid-template-columns: repeat(3, 1fr);
-  }
-
   .process-grid {
     grid-template-columns: repeat(4, 1fr);
   }
