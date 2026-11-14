@@ -6,7 +6,7 @@
 export class LocalizationManager {
   constructor() {
     this.currentLanguage = 'en';
-    this.availableLanguages = ['en', 'hr', 'it'];
+    this.availableLanguages = ['en', 'hr', 'it', 'de'];
     this.translations = {};
     this.manifest = null;
   }
