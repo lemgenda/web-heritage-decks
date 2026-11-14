@@ -12,14 +12,14 @@
       "it": "Ponti in Teak su Misura e Cockpit"
     },
     "tags": {
-      "en": "Avangard Shipyard Pula",
+      "en": "Pula Shipyard",
       "hr": "Brodogradilište Pula",
-      "it": "Cantiere Avangard Pola"
+      "it": "Cantiere Navale Pola"
     },
     "descs": {
-      "en": "Precision digital templating, hand-selected Burmese teak and vacuum-bonded decking fabricated at Avangard Shipyard Pula.",
+      "en": "Precision digital templating, hand-selected Burmese teak and vacuum-bonded decking fabricated at Pula Shipyard.",
       "hr": "Precizno digitalno šabloniranje, ručno birana burmanska tikovina i vakuumsko lijepljenje u Brodogradilištu Pula.",
-      "it": "Dime digitali di precisione, teak birmano selezionato a mano e incollaggio sottovuoto presso il cantiere Avangard Pola."
+      "it": "Dime digitali di precisione, teak birmano selezionato a mano e incollaggio sottovuoto presso il Cantiere Navale Pola."
     },
     "count": 31,
     "images": [
@@ -64,9 +64,9 @@
     "tagKey": "gallery.projectEnigmaTag",
     "descKey": "gallery.projectEnigmaDesc",
     "titles": {
-      "en": "Motor Yacht Enigma Šibenik Full Refit",
+      "en": "Motor Yacht Full Refit",
       "hr": "Motorna Jahta Kompletni Refit",
-      "it": "Motor Yacht Enigma Sebenico Refit Completo"
+      "it": "Motor Yacht Refit Completo"
     },
     "tags": {
       "en": "Adriatic Superyacht Refit",
@@ -280,9 +280,9 @@
     "tagKey": "gallery.projectBrazilTag",
     "descKey": "gallery.projectBrazilDesc",
     "titles": {
-      "en": "Yacht Brazil Custom Swim Platform & Details",
+      "en": "Yacht Swim Platform & Details",
       "hr": "Jahta Kupališna Platforma i Detalji",
-      "it": "Yacht Brazil Piattaforma Bagno e Dettagli"
+      "it": "Yacht Piattaforma Bagno e Dettagli"
     },
     "tags": {
       "en": "Bespoke Marine Joinery",
