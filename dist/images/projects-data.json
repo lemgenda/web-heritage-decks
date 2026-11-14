@@ -9,17 +9,20 @@
     "titles": {
       "en": "Custom Teak Decks & Cockpit Overhaul",
       "hr": "Unikatne Tikove Palube i Kokpit",
-      "it": "Ponti in Teak su Misura e Cockpit"
+      "it": "Ponti in Teak su Misura e Cockpit",
+      "de": "Maßgefertigte Teakdecks & Cockpit"
     },
     "tags": {
-      "en": "Avangard Shipyard Pula",
-      "hr": "Brodogradilište Avangard Pula",
-      "it": "Cantiere Avangard Pola"
+      "en": "Pula Shipyard",
+      "hr": "Brodogradilište Pula",
+      "it": "Cantiere Navale Pola",
+      "de": "Werft Pula"
     },
     "descs": {
-      "en": "Precision digital templating, hand-selected Burmese teak and vacuum-bonded decking fabricated at Avangard Shipyard Pula.",
-      "hr": "Precizno digitalno šabloniranje, ručno birana burmanska tikovina i vakuumsko lijepljenje u brodogradilištu Avangard Pula.",
-      "it": "Dime digitali di precisione, teak birmano selezionato a mano e incollaggio sottovuoto presso il cantiere Avangard Pola."
+      "en": "Precision digital templating, hand-selected Burmese teak and vacuum-bonded decking fabricated at Pula Shipyard.",
+      "hr": "Precizno digitalno šabloniranje, ručno birana burmanska tikovina i vakuumsko lijepljenje u Brodogradilištu Pula.",
+      "it": "Dime digitali di precisione, teak birmano selezionato a mano e incollaggio sottovuoto presso il Cantiere Navale Pola.",
+      "de": "Präzise digitale Schablonen, handverlesenes Burma-Teak und Vakuumverklebung in der Werft Pula."
     },
     "count": 31,
     "images": [
@@ -59,40 +62,37 @@
   {
     "id": "enigma-sibenik",
     "category": "refit",
-    "cover": "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-001.webp",
+    "cover": "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-002.webp",
     "titleKey": "gallery.projectEnigmaTitle",
     "tagKey": "gallery.projectEnigmaTag",
     "descKey": "gallery.projectEnigmaDesc",
     "titles": {
-      "en": "Motor Yacht Enigma Šibenik Full Refit",
-      "hr": "Motorna Jahta Enigma Šibenik Kompletni Refit",
-      "it": "Motor Yacht Enigma Sebenico Refit Completo"
+      "en": "Motor Yacht Full Refit",
+      "hr": "Motorna Jahta Kompletni Refit",
+      "it": "Motor Yacht Refit Completo",
+      "de": "Motoryacht Komplett-Refit"
     },
     "tags": {
       "en": "Adriatic Superyacht Refit",
       "hr": "Jadranski Superyacht Refit",
-      "it": "Refit Superyacht Adriatico"
+      "it": "Refit Superyacht Adriatico",
+      "de": "Adria Superyacht Refit"
     },
     "descs": {
       "en": "Complete removal of worn planking, laser deck surface leveling, and custom multi-zone teak installation.",
       "hr": "Potpuno uklanjanje starih trenica, lasersko niveliranje potpalube i ugradnja novih višezonskih tikovih paluba.",
-      "it": "Rimozione completa delle vecchie doghe, livellamento laser della coperta e posa di ponti in teak a più zone."
+      "it": "Rimozione completa delle vecchie doghe, livellamento laser della coperta e posa di ponti in teak a più zone.",
+      "de": "Vollständige Entfernung alter Planken, Laser-Nivellierung des Unterdecks und Einbau neuer Mehrzonen-Teakdecks."
     },
-    "count": 55,
+    "count": 49,
     "images": [
-      "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-001.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-002.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-003.webp",
-      "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-004.webp",
-      "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-005.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-006.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-007.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-008.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-009.webp",
-      "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-010.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-011.webp",
-      "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-012.webp",
-      "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-013.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-014.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-015.webp",
       "images/work/enigma-sibenik/hd-gallery-enigma-sibenik-016.webp",
@@ -147,19 +147,22 @@
     "titles": {
       "en": "Luxury Yacht Deanja Complete Restoration",
       "hr": "Luksuzna Jahta Deanja Kompletna Restauracija",
-      "it": "Yacht di Lusso Deanja Restauro Completo"
+      "it": "Yacht di Lusso Deanja Restauro Completo",
+      "de": "Luxusyacht Deanja Komplette Restaurierung"
     },
     "tags": {
       "en": "Turnkey Luxury Refit",
       "hr": "Ključ u ruke luksuzni refit",
-      "it": "Refit di Lusso Chiavi in Mano"
+      "it": "Refit di Lusso Chiavi in Mano",
+      "de": "Schlüsselfertiger Luxus-Refit"
     },
     "descs": {
       "en": "Comprehensive deck replacement, handcrafted curved margins, and high-performance weather-resistant caulking.",
       "hr": "Sveobuhvatna zamjena palube, ručno savijane rubne daske i visokootporno kalafatanje za sve vremenske uvjete.",
-      "it": "Sostituzione completa del ponte, cornici curve rifinite a mano e calafataggio ad alte prestazioni."
+      "it": "Sostituzione completa del ponte, cornici curve rifinite a mano e calafataggio ad alte prestazioni.",
+      "de": "Umfassender Decksaustausch, handgebogene Leibhölzer und hochbeständige Kalfaterung für alle Wetterbedingungen."
     },
-    "count": 50,
+    "count": 49,
     "images": [
       "images/work/deanja/hd-gallery-deanja-001.webp",
       "images/work/deanja/hd-gallery-deanja-002.webp",
@@ -188,7 +191,6 @@
       "images/work/deanja/hd-gallery-deanja-025.webp",
       "images/work/deanja/hd-gallery-deanja-026.webp",
       "images/work/deanja/hd-gallery-deanja-027.webp",
-      "images/work/deanja/hd-gallery-deanja-028.webp",
       "images/work/deanja/hd-gallery-deanja-029.webp",
       "images/work/deanja/hd-gallery-deanja-030.webp",
       "images/work/deanja/hd-gallery-deanja-031.webp",
@@ -223,17 +225,20 @@
     "titles": {
       "en": "Custom Marine Deck Crnobori",
       "hr": "Unikatna Brodska Paluba Crnobori",
-      "it": "Ponte Nautico Personalizzato Crnobori"
+      "it": "Ponte Nautico Personalizzato Crnobori",
+      "de": "Maßgefertigtes Schiffsdeck Crnobori"
     },
     "tags": {
       "en": "Quarter-Sawn Vertical Grain",
       "hr": "Radijalno rezana tikovina (Quarter-Sawn)",
-      "it": "Teak a Venatura Verticale"
+      "it": "Teak a Venatura Verticale",
+      "de": "Quarter-Sawn Teak"
     },
     "descs": {
       "en": "Bespoke cockpit, transom steps, and forward sundeck crafting with vertical grain teak for long-term dimensional stability.",
       "hr": "Izrada kokpita, krmenih stepenica i pramčanog sunčališta uz vertikalni god drva za dugotrajnu dimenzijsku stabilnost.",
-      "it": "Realizzazione di pozzetto, gradini di poppa e prendisole di prua con venatura verticale per massima stabilità."
+      "it": "Realizzazione di pozzetto, gradini di poppa e prendisole di prua con venatura verticale per massima stabilità.",
+      "de": "Komplett maßgeschneidertes Teakdeck mit tiefen Kalfaterungsfugen und präzisen Verschlüssen."
     },
     "count": 40,
     "images": [
@@ -287,19 +292,22 @@
     "tagKey": "gallery.projectBrazilTag",
     "descKey": "gallery.projectBrazilDesc",
     "titles": {
-      "en": "Yacht Brazil Custom Swim Platform & Details",
-      "hr": "Jahta Brazil Kupališna Platforma i Detalji",
-      "it": "Yacht Brazil Piattaforma Bagno e Dettagli"
+      "en": "Yacht Swim Platform & Details",
+      "hr": "Jahta Kupališna Platforma i Detalji",
+      "it": "Yacht Piattaforma Bagno e Dettagli",
+      "de": "Yacht Badeplattform & Details"
     },
     "tags": {
       "en": "Bespoke Marine Joinery",
       "hr": "Precizna brodska stolarija",
-      "it": "Ebanisteria Nautica su Misura"
+      "it": "Ebanisteria Nautica su Misura",
+      "de": "Präzise Yachtschreinerei"
     },
     "descs": {
       "en": "Integrated flush hatches, hydraulic swim platform teak surfacing, and customized gratings built to maritime tolerances.",
       "hr": "Integrirani ravni porteli, tikova obloga hidrauličke platforme i unikatne rešetke izrađene po nautičkim tolerancijama.",
-      "it": "Boccaporti a filo integrati, rivestimento della plancetta idraulica e carabottini personalizzati."
+      "it": "Boccaporti a filo integrati, rivestimento della plancetta idraulica e carabottini personalizzati.",
+      "de": "Integrierte bündige Luken, Teakbelag der hydraulischen Plattform und geschwungene Cockpittische."
     },
     "count": 40,
     "images": [

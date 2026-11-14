@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Heritage Decks | Vrhunske Brodske Tikove Palube i Brodska Stolarija",
-    "description": "Preko 30 godina majstorske izrade tikovih paluba, 3D lasersko snimanje i refit u brodogradilištu Avangard Pula, Istra. Glavni brodotesar Perica Bajs."
+    "description": "Preko 30 godina majstorske izrade tikovih paluba, 3D lasersko snimanje i refit u Brodogradilištu Pula, Istra. Glavni brodostolar Milan Dragović."
   },
   "nav": {
     "skipToContent": "Skoči na glavni sadržaj",
@@ -25,25 +25,25 @@
   "hero": {
     "badge": "Preko 30 godina majstorske brodske stolarije",
     "title": "Bezvremenska Elegancija i Precizne Brodske Palube",
-    "subtitle": "Pod vodstvom glavnog brodotesara Perice Bajsa iz brodogradilišta Avangard Pula, spajamo tri desetljeća zanatskog majstorstva i precizno 3D lasersko snimanje za unikatne palube jahti diljem Jadrana.",
+    "subtitle": "Pod vodstvom glavnog brodostolara Milana Dragovića. Tri desetljeća izvrsnosti u pulskim brodogradilištima i marinama.",
     "ctaPrimary": "Zatražite Konzultacije",
     "ctaSecondary": "Pogledajte Projekte"
   },
   "about": {
     "badge": "Naša Baština i Tradicija",
     "title": "Tri Desetljeća Beskompromisnog Nautičkog Majstorstva",
-    "description": "Utemeljen u stoljetnoj brodograđevnoj tradiciji Pule i djelujući izravno unutar brodogradilišta Avangard, Heritage Decks vodi majstor brodski tesar Perica Bajs. Više od 30 godina naša radionica stvara unikatne tikove palube, spajajući ručnu selekciju najplemenitijeg drva, savršeno spajanje i vakuumsko prešanje po najvišim standardima međunarodnih luksuznih jahti.",
-    "founderTitle": "Glavni Brodotesar i Osnivač",
-    "founderName": "Perica Bajs",
-    "founderLocation": "Brodogradilište Avangard, Pula, Istra, Hrvatska",
+    "description": "Specijalizirani smo za projektiranje, izradu i postavljanje brodskih paluba najviše klase. Svakom projektu pristupamo s velikom preciznošću i zanatskom strašću, jamčeći dugovječnost i besprijekoran estetski izgled vašeg broda.",
+    "founderTitle": "Glavni Brodostolar i Osnivač",
+    "founderName": "Milan Dragović",
+    "founderLocation": "Brodogradilište Pula, Istra, Hrvatska",
     "stat1Value": "30+",
     "stat1Label": "Godina Majstorskog Iskustva",
     "stat2Value": "350+",
     "stat2Label": "Završenih Brodskih Paluba",
     "stat3Value": "100%",
     "stat3Label": "Burmanska Tikovina i Eko Materijali",
-    "stat4Value": "0.5mm",
-    "stat4Label": "Preciznost Laserskog Skeniranja"
+    "stat4Value": "400+",
+    "stat4Label": "Zadovoljnih klijenata"
   },
   "services": {
     "badge": "Naša Ekspertiza",
@@ -105,10 +105,10 @@
     "subtitle": "Otkrijte inženjerske i materijalne prednosti koje naše palube čine dugovječnima.",
     "item1Title": "FSC-Certificirana Tikovina Ravnih Godova",
     "item1Desc": "Nabavljamo isključivo zrelu tikovinu vertikalnih godova (quarter-sawn) koja osigurava minimalno istezanje, stabilnost i vrhunski dodir.",
-    "item2Title": "Vakuumsko Spajanje Bez Vijaka",
+    "item2Title": "Spajanje Bez Vijaka",
     "item2Desc": "Nema bušenja trupa plovila, čime se zauvijek eliminira opasnost od prodora vode, korozije sendvič konstrukcije ili raslojavanja.",
-    "item3Title": "Baza u Brodogradilištu Avangard Pula i Terenski Tim",
-    "item3Desc": "Radionica unutar brodogradilišta Avangard uz mobilni servis za sve marine u Hrvatskoj, Sloveniji i Italiji.",
+    "item3Title": "Baza u Brodogradilištu Pula i Terenski Tim",
+    "item3Desc": "Radionica unutar Brodogradilišta Pula uz mobilni servis za sve marine u Hrvatskoj, Sloveniji i Italiji.",
     "item4Title": "Certificirana Garancija na Fuge",
     "item4Desc": "Korištenje nautičkih masa visoke elastičnosti s dokazanom otpornošću na ekstremno UV zračenje, sol i habanje bez pucanja."
   },
@@ -122,7 +122,7 @@
     "filterDetails": "Zanatski Detalji",
     "viewMore": "Pogledaj Detalje",
     "project1Title": "Unikatna Tikova Paluba Motorne Jahte",
-    "project1Tag": "Brodogradilište Avangard Pula",
+    "project1Tag": "Brodogradilište Pula",
     "project2Title": "Refit Palube Jahte Enigma Šibenik",
     "project2Tag": "Jadranski Refit",
     "project3Title": "Ručno Urezane Razme i Obrubi",
@@ -132,7 +132,7 @@
     "project5Title": "Refit Luksuzne Jahte Deanja",
     "project5Tag": "Kompletna Rekonstrukcija",
     "project6Title": "Krmena Platforma i Rešetke po Mjeri",
-    "project6Tag": "Brodotesarska Izrada",
+    "project6Tag": "Brodostolarska Izrada",
     "modalClose": "Zatvori galeriju",
     "prevImage": "Prethodna slika",
     "nextImage": "Sljedeća slika",
@@ -140,18 +140,18 @@
     "photoCount": "fotografija",
     "openProject": "Pogledajte galeriju projekta",
     "projectDecksTitle": "Unikatne Tikove Palube i Kokpit",
-    "projectDecksTag": "Brodogradilište Avangard Pula",
-    "projectDecksDesc": "Precizno digitalno šabloniranje, ručno birana burmanska tikovina i vakuumsko lijepljenje u brodogradilištu Avangard Pula.",
-    "projectenigmaEnigmaTitle": "Motorna Jahta Enigma Šibenik Kompletni Refit",
-    "projectenigmaEnigmaTag": "Jadranski Superyacht Refit",
-    "projectenigmaEnigmaDesc": "Potpuno uklanjanje starih trenica, lasersko niveliranje potpalube i ugradnja novih višezonskih tikovih paluba.",
+    "projectDecksTag": "Brodogradilište Pula",
+    "projectDecksDesc": "Precizno digitalno šabloniranje, ručno birana burmanska tikovina i vakuumsko lijepljenje u Brodogradilištu Pula.",
+    "projectEnigmaTitle": "Motorna Jahta Kompletni Refit",
+    "projectEnigmaTag": "Jadranski Superyacht Refit",
+    "projectEnigmaDesc": "Potpuno uklanjanje starih trenica, lasersko niveliranje potpalube i ugradnja novih višezonskih tikovih paluba.",
     "projectDeanjaTitle": "Luksuzna Jahta Deanja Kompletna Restauracija",
     "projectDeanjaTag": "Ključ u ruke luksuzni refit",
     "projectDeanjaDesc": "Sveobuhvatna zamjena palube, ručno savijane rubne daske i visokootporno kalafatanje za sve vremenske uvjete.",
     "projectCrnoboriTitle": "Unikatna Brodska Paluba Crnobori",
     "projectCrnoboriTag": "Radijalno rezana tikovina (Quarter-Sawn)",
     "projectCrnoboriDesc": "Izrada kokpita, krmenih stepenica i pramčanog sunčališta uz vertikalni god drva za dugotrajnu dimenzijsku stabilnost.",
-    "projectBrazilTitle": "Jahta Brazil Kupališna Platforma i Detalji",
+    "projectBrazilTitle": "Jahta Kupališna Platforma i Detalji",
     "projectBrazilTag": "Precizna brodska stolarija",
     "projectBrazilDesc": "Integrirani ravni porteli, tikova obloga hidrauličke platforme i unikatne rešetke izrađene po nautičkim tolerancijama."
   },
@@ -166,24 +166,24 @@
     "q3": "Koliko traje prosječan projekt zamjene ili izrade palube?",
     "a3": "Zahvaljujući predizradi u kontroliranim uvjetima radionice, montaža na samom plovilu najčešće traje između 7 i 14 dana za srednje motorne brodove i jedrilice. Ukupan proces od skeniranja do isporuke traje 3 do 5 tjedana.",
     "q4": "Koriste li se vijci za pričvršćivanje nove palube?",
-    "a4": "Nikada. Koristimo suvremenu metodu vakuumskog lijepljenja specijaliziranim nautičkim polimernim vezivima. Izbjegavanjem bušenja trupa osigurava se 100% vodonepropusnost i trajno štiti sendvič konstrukcija broda.",
+    "a4": "Nikada. Koristimo suvremenu metodu lijepljenja specijaliziranim nautičkim polimernim vezivima. Izbjegavanjem bušenja trupa osigurava se 100% vodonepropusnost i trajno štiti sendvič konstrukcija broda.",
     "q5": "Gdje se nalazi vaša radionica i koje područje pokrivate?",
-    "a5": "Naša primarna baza i radionica nalaze se unutar brodogradilišta Avangard u Puli, Istra. Naš mobilni tim djeluje diljem Istre, cijelog Jadrana te u marinama u Sloveniji i Italiji (Trst, Venecija, Monfalcone, Ancona)."
+    "a5": "Naša primarna baza i radionica nalaze se unutar Brodogradilišta Pula, Istra. Naš mobilni tim djeluje diljem Istre, cijelog Jadrana te u marinama u Sloveniji i Italiji (Trst, Venecija, Monfalcone, Ancona)."
   },
   "contact": {
     "badge": "Stupite u Kontakt",
     "title": "Zatražite Besplatnu Procjenu i Ponudu",
-    "subtitle": "Razgovarajte izravno s glavnim brodotesarom Pericom Bajsom o vašem plovilu. Nudimo izlazak na teren i stručnu analizu.",
-    "contactPersonTitle": "Glavni Brodotesar",
-    "contactPersonName": "Perica Bajs",
+    "subtitle": "Razgovarajte izravno s glavnim brodostolarom Milanom Dragovićem o vašem plovilu. Nudimo izlazak na teren i stručnu analizu.",
+    "contactPersonTitle": "Glavni Brodostolar",
+    "contactPersonName": "Milan Dragović",
     "companyTitle": "Heritage Decks d.o.o.",
-    "companyAddress": "Brodogradilište Avangard, Riva 1, 52100 Pula, Istra, Hrvatska",
+    "companyAddress": "Brodogradilište Pula, Istra, Hrvatska",
     "nameLabel": "Ime i Prezime",
     "namePlaceholder": "npr. Kapetan Marko Horvat",
     "emailLabel": "E-mail Adresa",
     "emailPlaceholder": "marko@primjer.hr",
     "phoneLabel": "Broj Telefona",
-    "phonePlaceholder": "+385 98 000 0000",
+    "phonePlaceholder": "+385 98 939 1850",
     "vesselLabel": "Tip i Model Plovila",
     "vesselPlaceholder": "npr. Sunseeker Predator 60 / Marina Veruda",
     "serviceLabel": "Potrebna Usluga",
@@ -198,11 +198,11 @@
     "consentLink": "Pravila privatnosti",
     "submitBtn": "Pošalji Projektni Upit",
     "sending": "Slanje upita u tijeku...",
-    "success": "Zahvaljujemo! Vaš upit je uspješno zaprimljen. Glavni brodotesar Perica Bajs i naš tim kontaktirat će vas unutar 24 sata.",
+    "success": "Zahvaljujemo! Vaš upit je uspješno zaprimljen. Glavni brodostolar Milan Dragović i naš tim kontaktirat će vas unutar 24 sata.",
     "errorGeneral": "Došlo je do pogreške prilikom slanja poruke. Molimo provjerite unesena polja i pokušajte ponovno.",
-    "infoLocation": "Brodogradilište Avangard, Pula, Istra, Hrvatska",
-    "infoPhone": "+385 98 000 0000",
-    "infoEmail": "info@heritage-decks.com",
+    "infoLocation": "Brodogradilište Pula, Istra, Hrvatska",
+    "infoPhone": "+385 98 939 1850",
+    "infoEmail": "milandragovic@net.hr",
     "infoHours": "Pon - Sub: 08:00 - 18:00 CET"
   },
   "footer": {
@@ -213,7 +213,7 @@
     "privacyPolicy": "Pravila Privatnosti",
     "accessibility": "Izjava o Pristupačnosti",
     "terms": "Uvjeti Korištenja",
-    "copyright": "© 2026 Heritage Decks. Sva prava pridržana. Izrađuje Perica Bajs, brodogradilište Avangard Pula.",
+    "copyright": "© 2026 Heritage Decks. Sva prava pridržana. Izrađuje Milan Dragović, Brodogradilište Pula.",
     "backToTop": "Povratak na vrh stranice",
     "complianceNote": "WCAG 2.2 AA / AAA Sukladno • Istra, Hrvatska"
   },
@@ -240,7 +240,7 @@
     "title": "Pravila Privatnosti (GDPR)",
     "intro": "Heritage Decks poštuje vašu privatnost i štiti vaše osobne podatke u punoj sukladnosti s Općom uredbom o zaštiti podataka (GDPR).",
     "controller": "Voditelj Obrade Podataka",
-    "controllerDesc": "Heritage Decks d.o.o., Brodogradilište Avangard, Pula, Istra, Hrvatska. E-pošta: privacy@heritage-decks.com.",
+    "controllerDesc": "Heritage Decks d.o.o., Brodogradilište Pula, Istra, Hrvatska. E-pošta: privacy@heritage-decks.com.",
     "collection": "Podaci Koje Prikupljamo",
     "collectionDesc": "Prikupljamo isključivo podatke koje dobrovoljno unesete u kontakt obrazac (ime, e-mail, telefon, detalji o plovilu) isključivo u svrhu pripreme tražene ponude.",
     "rights": "Vaša Prava Prema GDPR-u",
@@ -262,6 +262,6 @@
     "errConsent": "Morate prihvatiti pravila privatnosti kako biste poslali upit.",
     "errSummary": "Molimo ispravite označene pogreške prije slanja obrasca.",
     "sending": "Slanje upita u tijeku...",
-    "successMsg": "Zahvaljujemo! Glavni brodotesar Perica Bajs i naš tim kontaktirat će vas unutar 24 sata."
+    "successMsg": "Zahvaljujemo! Glavni brodostolar Milan Dragović i naš tim kontaktirat će vas unutar 24 sata."
   }
 }

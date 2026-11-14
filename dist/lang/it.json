@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Heritage Decks | Coperte in Teak Nautico di Lusso e Falegnameria Navale su Misura",
-    "description": "Oltre 30 anni di eccellenza artigianale navale, scansione laser 3D e refit coperte in teak presso il Cantiere Navale Avangard Pola, Istria, Croazia. Maestro d'ascia Perica Bajs."
+    "description": "Oltre 30 anni di eccellenza artigianale navale, scansione laser 3D e refit coperte in teak presso il Cantiere Navale Pola, Istria, Croazia. Maestro d'ascia Milan Dragović."
   },
   "nav": {
     "skipToContent": "Salta al contenuto principale",
@@ -25,25 +25,25 @@
   "hero": {
     "badge": "Oltre 30 Anni di Maestria nella Falegnameria Navale",
     "title": "Eleganza Senza Tempo e Coperte Navali di Massima Precisione",
-    "subtitle": "Guidati dal maestro d'ascia Perica Bajs presso lo storico Cantiere Navale Avangard di Pola, uniamo tre decenni di eccellenza artigianale alla scansione laser 3D per yacht di lusso in tutto l'Adriatico e Mediterraneo.",
+    "subtitle": "Guidati dal maestro d'ascia Milan Dragović. Tre decenni di eccellenza nei cantieri navali e nelle marine di Pola.",
     "ctaPrimary": "Richiedi Consulenza",
     "ctaSecondary": "Scopri i Progetti"
   },
   "about": {
     "badge": "La Nostra Tradizione & Origini",
     "title": "Tre Decenni di Impeccabile Artigianato Nautico",
-    "description": "Radicato nella secolare tradizione cantieristica di Pola e con sede operativa all'interno del Cantiere Navale Avangard, Heritage Decks è guidato dal maestro d'ascia Perica Bajs. Da oltre 30 anni, il nostro laboratorio realizza coperte in teak su misura, unendo la selezione manuale delle essenze più pregiate all'incollaggio sottovuoto di altissima precisione.",
+    "description": "Siamo specializzati nella progettazione, realizzazione e posa di ponti navali di altissima classe. Affrontiamo ogni progetto con grande precisione e passione artigianale, garantendo longevità e un aspetto estetico impeccabile alla vostra imbarcazione.",
     "founderTitle": "Maestro d'Ascia e Fondatore",
-    "founderName": "Perica Bajs",
-    "founderLocation": "Cantiere Navale Avangard, Pola, Istria, Croazia",
+    "founderName": "Milan Dragović",
+    "founderLocation": "Cantiere Navale Pola, Istria, Croazia",
     "stat1Value": "30+",
     "stat1Label": "Anni di Maestria Artigianale",
     "stat2Value": "350+",
     "stat2Label": "Coperte Navali Realizzate",
     "stat3Value": "100%",
     "stat3Label": "Teak Birmano ed Eco Materiali",
-    "stat4Value": "0.5mm",
-    "stat4Label": "Precisione Scansione Laser"
+    "stat4Value": "400+",
+    "stat4Label": "Clienti Soddisfatti"
   },
   "services": {
     "badge": "Le Nostre Competenze",
@@ -105,9 +105,9 @@
     "subtitle": "I vantaggi costruttivi e materici che rendono le nostre coperte eccezionali.",
     "item1Title": "Teak Certificato FSC a Venatura Stretta",
     "item1Desc": "Selezioniamo esclusivamente teak a fibra verticale (quarter-sawn) per garantire massima stabilità termica e durata negli anni.",
-    "item2Title": "Incollaggio Sottovuoto Senza Viti",
+    "item2Title": "Incollaggio Senza Viti",
     "item2Desc": "Nessun foro nello scafo: azzeriamo per sempre il rischio di infiltrazioni d'acqua, corrosione o delaminazione della struttura sandwich.",
-    "item3Title": "Hub al Cantiere Avangard Pola e Squadra Mobile",
+    "item3Title": "Hub al Cantiere Navale Pola e Team Mobile",
     "item3Desc": "Laboratorio dedicato all'interno del Cantiere Navale Avangard con interventi mobili in tutti i porti di Croazia, Italia e Slovenia.",
     "item4Title": "Garanzia sui Comenti Gommati",
     "item4Desc": "Utilizzo di polimeri marini elastici di ultima generazione altamente resistenti ai raggi UV e all'acqua salata, senza ritiri né fessurazioni."
@@ -122,7 +122,7 @@
     "filterDetails": "Dettagli d'Arte",
     "viewMore": "Vedi Dettagli",
     "project1Title": "Coperta in Teak Personalizzata Motoryacht",
-    "project1Tag": "Cantiere Navale Avangard Pola",
+    "project1Tag": "Cantiere Navale Pola",
     "project2Title": "Refit Coperta Yacht Enigma Šibenik",
     "project2Tag": "Refit Adriatico",
     "project3Title": "Trincarini e Bordature su Misura",
@@ -140,8 +140,8 @@
     "photoCount": "foto",
     "openProject": "Guarda galleria progetto",
     "projectDecksTitle": "Ponti in Teak su Misura e Cockpit",
-    "projectDecksTag": "Cantiere Avangard Pola",
-    "projectDecksDesc": "Dime digitali di precisione, teak birmano selezionato a mano e incollaggio sottovuoto presso il cantiere Avangard Pola.",
+    "projectDecksTag": "Cantiere Navale Pola",
+    "projectDecksDesc": "Dime digitali di precisione, teak birmano selezionato a mano e incollaggio sottovuoto presso il Cantiere Navale Pola.",
     "projectenigmaEnigmaTitle": "Motor Yacht Enigma Sebenico Refit Completo",
     "projectenigmaEnigmaTag": "Refit Superyacht Adriatico",
     "projectenigmaEnigmaDesc": "Rimozione completa delle vecchie doghe, livellamento laser della coperta e posa di ponti in teak a più zone.",
@@ -151,9 +151,10 @@
     "projectCrnoboriTitle": "Ponte Nautico Personalizzato Crnobori",
     "projectCrnoboriTag": "Teak a Venatura Verticale",
     "projectCrnoboriDesc": "Realizzazione di pozzetto, gradini di poppa e prendisole di prua con venatura verticale per massima stabilità.",
-    "projectBrazilTitle": "Yacht Brazil Piattaforma Bagno e Dettagli",
+    "projectBrazilTitle": "Yacht Piattaforma Bagno e Dettagli",
     "projectBrazilTag": "Ebanisteria Nautica su Misura",
-    "projectBrazilDesc": "Boccaporti a filo integrati, rivestimento della plancetta idraulica e carabottini personalizzati."
+    "projectBrazilDesc": "Boccaporti a filo integrati, rivestimento della plancetta idraulica e carabottini personalizzati.",
+    "projectEnigmaTitle": "Motor Yacht Refit Completo"
   },
   "faq": {
     "badge": "Domande e Risposte",
@@ -166,24 +167,24 @@
     "q3": "Quanto tempo richiede un tipico intervento di refit del ponte?",
     "a3": "Grazie alla prefabbricazione in laboratorio, i lavori a bordo durano solitamente solo 7-14 giorni per motoryacht e barche a vela di medie dimensioni. Il ciclo totale dal rilievo al collaudo richiede da 3 a 5 settimane.",
     "q4": "Si utilizzano viti per fissare la nuova coperta?",
-    "a4": "Assolutamente no. Utilizziamo avanzate tecniche di incollaggio sottovuoto con adesivi polimerici marini. Senza forare il ponte di coperta, si mantiene una totale impermeabilità prevenendo la delaminazione della vetroresina.",
+    "a4": "Assolutamente no. Utilizziamo avanzate tecniche di incollaggio con adesivi polimerici marini. Senza forare il ponte di coperta, si mantiene una totale impermeabilità prevenendo la delaminazione della vetroresina.",
     "q5": "Dove si trova il vostro cantiere e quale raggio d'azione coprite?",
-    "a5": "La nostra sede principale e laboratorio si trovano all'interno dello storico Cantiere Navale Avangard a Pola, in Istria. La nostra squadra mobile opera attivamente lungo tutto l'Adriatico, compresi i porti di Slovenia e Italia (Trieste, Venezia, Monfalcone, Ancona)."
+    "a5": "La nostra sede principale e laboratorio si trovano all'interno dello storico Cantiere Navale Pola a Pola, in Istria. La nostra squadra mobile opera attivamente lungo tutto l'Adriatico, compresi i porti di Slovenia e Italia (Trieste, Venezia, Monfalcone, Ancona)."
   },
   "contact": {
     "badge": "Contattaci",
     "title": "Richiedi un Rilievo e Preventivo Gratuito",
-    "subtitle": "Parla del tuo yacht direttamente con il maestro d'ascia Perica Bajs. Effettuiamo perizie tecniche direttamente sul posto.",
+    "subtitle": "Parla del tuo yacht direttamente con il maestro d'ascia Milan Dragović. Effettuiamo perizie tecniche direttamente sul posto.",
     "contactPersonTitle": "Maestro d'Ascia",
-    "contactPersonName": "Perica Bajs",
+    "contactPersonName": "Milan Dragović",
     "companyTitle": "Heritage Decks d.o.o.",
-    "companyAddress": "Cantiere Navale Avangard, Riva 1, 52100 Pola, Istria, Croazia",
+    "companyAddress": "Cantiere Navale Pola, Istria, Croazia",
     "nameLabel": "Nome e Cognome",
     "namePlaceholder": "es. Comandante Marco Rossi",
     "emailLabel": "Indirizzo Email",
     "emailPlaceholder": "marco@esempio.it",
     "phoneLabel": "Numero di Telefono",
-    "phonePlaceholder": "+385 98 000 0000",
+    "phonePlaceholder": "+385 98 939 1850",
     "vesselLabel": "Tipo e Modello Imbarcazione",
     "vesselPlaceholder": "es. Riva 68 Ego / Marina di Rovigno",
     "serviceLabel": "Servizio Richiesto",
@@ -198,11 +199,11 @@
     "consentLink": "Informativa sulla Privacy",
     "submitBtn": "Invia Richiesta di Progetto",
     "sending": "Invio della richiesta in corso...",
-    "success": "Grazie! La tua richiesta è stata inviata con successo. Il maestro d'ascia Perica Bajs e il nostro team ti contatteranno entro 24 ore.",
+    "success": "Grazie! La tua richiesta è stata inviata con successo. Il maestro d'ascia Milan Dragović e il nostro team ti contatteranno entro 24 ore.",
     "errorGeneral": "Si è verificato un errore durante l'invio. Si prega di verificare i campi e riprovare.",
-    "infoLocation": "Cantiere Navale Avangard, Pola, Istria, Croazia",
-    "infoPhone": "+385 98 000 0000",
-    "infoEmail": "info@heritage-decks.com",
+    "infoLocation": "Cantiere Navale Pola, Istria, Croazia",
+    "infoPhone": "+385 98 939 1850",
+    "infoEmail": "milandragovic@net.hr",
     "infoHours": "Lun - Sab: 08:00 - 18:00 CET"
   },
   "footer": {
@@ -213,7 +214,7 @@
     "privacyPolicy": "Informativa sulla Privacy",
     "accessibility": "Dichiarazione di Accessibilità",
     "terms": "Termini di Servizio",
-    "copyright": "© 2026 Heritage Decks. Tutti i diritti riservati. Realizzato da Perica Bajs, Cantiere Navale Avangard Pola.",
+    "copyright": "© 2026 Heritage Decks. Tutti i diritti riservati. Realizzato da Milan Dragović, Cantiere Navale Avangard Pola.",
     "backToTop": "Torna all'inizio della pagina",
     "complianceNote": "Conforme WCAG 2.2 AA / AAA • Istria, Croazia"
   },
@@ -240,7 +241,7 @@
     "title": "Informativa sulla Privacy (GDPR)",
     "intro": "Heritage Decks rispetta la vostra privacy e protegge i vostri dati personali in piena conformità al Regolamento Generale sulla Protezione dei Dati (GDPR).",
     "controller": "Titolare del Trattamento",
-    "controllerDesc": "Heritage Decks d.o.o., Cantiere Navale Avangard, Pola, Istria, Croazia. Email: privacy@heritage-decks.com.",
+    "controllerDesc": "Heritage Decks d.o.o., Cantiere Navale Pola, Pola, Istria, Croazia. Email: privacy@heritage-decks.com.",
     "collection": "Dati Raccolti",
     "collectionDesc": "Raccogliamo esclusivamente le informazioni inviate volontariamente tramite il nostro modulo di contatto (nome, email, telefono, dati imbarcazione) al solo fine di elaborare il preventivo richiesto.",
     "rights": "I Vostri Diritti GDPR",
@@ -262,6 +263,6 @@
     "errConsent": "È necessario accettare l'informativa sulla privacy per inviare la richiesta.",
     "errSummary": "Si prega di correggere gli errori evidenziati nel modulo prima dell'invio.",
     "sending": "Invio della richiesta in corso...",
-    "successMsg": "Grazie! Il maestro d'ascia Perica Bajs e il nostro team vi contatteranno entro 24 ore."
+    "successMsg": "Grazie! Il maestro d'ascia Milan Dragović e il nostro team vi contatteranno entro 24 ore."
   }
 }

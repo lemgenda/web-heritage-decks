@@ -1,0 +1,265 @@
+{
+  "meta": {
+    "title": "Heritage Decks | Hochwertige Teakdecks & Yachtschreinerei",
+    "description": "Über 30 Jahre meisterhafte Teakdeck-Fertigung und Refit in der Werft Pula, Istrien. Bootsbaumeister Milan Dragović."
+  },
+  "nav": {
+    "skipToContent": "Zum Hauptinhalt springen",
+    "home": "Startseite",
+    "about": "Über uns",
+    "services": "Leistungen",
+    "process": "Prozess",
+    "gallery": "Galerie",
+    "faq": "FAQ",
+    "contact": "Kontakt",
+    "getQuote": "Angebot anfordern",
+    "themeToggleAria": "Designmodus umschalten",
+    "langSwitcherAria": "Sprachauswahl",
+    "mobileMenuAria": "Mobiles Navigationsmenü",
+    "homeAria": "Heritage Decks Startseite",
+    "mainNavAria": "Hauptnavigation",
+    "portfolioFiltersAria": "Projektportfolio-Filter",
+    "returnHome": "Zurück zur Startseite"
+  },
+  "hero": {
+    "badge": "Über 30 Jahre meisterhafte Yachtschreinerei",
+    "title": "Zeitlose Eleganz und Präzise Yachtdecks",
+    "subtitle": "Unter der Leitung von Bootsbaumeister Milan Dragović. Drei Jahrzehnte Exzellenz in den Werften und Marinas von Pula.",
+    "ctaPrimary": "Beratung anfordern",
+    "ctaSecondary": "Projekte ansehen"
+  },
+  "about": {
+    "badge": "Unser Erbe & Tradition",
+    "title": "Drei Jahrzehnte Kompromisslose Nautische Handwerkskunst",
+    "description": "Wir sind auf die Planung, Fertigung und Verlegung von Yachtdecks höchster Klasse spezialisiert. Jedes Projekt gehen wir mit größter Präzision und handwerklicher Leidenschaft an und garantieren Langlebigkeit sowie ein makelloses Erscheinungsbild Ihres Schiffes.",
+    "founderTitle": "Bootsbaumeister & Gründer",
+    "founderName": "Milan Dragović",
+    "founderLocation": "Werft Pula, Istrien, Kroatien",
+    "stat1Value": "30+",
+    "stat1Label": "Jahre Meistererfahrung",
+    "stat2Value": "350+",
+    "stat2Label": "Fertiggestellte Yachtdecks",
+    "stat3Value": "100%",
+    "stat3Label": "Burma-Teak & Öko-Materialien",
+    "stat4Value": "400+",
+    "stat4Label": "Zufriedene Kunden"
+  },
+  "services": {
+    "badge": "Unsere Expertise",
+    "title": "Spezialisierte Nautische Lösungen & Teakverarbeitung",
+    "subtitle": "Umfassende Planung, Fertigung und Restaurierung von Decks für Motoryachten, Segelboote und Megayachten.",
+    "decking": {
+      "title": "Maßgefertigte Teakdecks",
+      "description": "Traditionelles Burma-Teak und moderne umweltfreundliche Verbundwerkstoffe, maßgeschneidert für Ihr Schiff mit erstklassigen Fugenabdichtungssystemen."
+    },
+    "scanning": {
+      "title": "3D-Laserscanning & CAD-Modellierung",
+      "description": "Submillimeter-genaue digitale Erfassung der Schiffsgeometrie, die Fehler manueller Schablonen eliminiert."
+    },
+    "refit": {
+      "title": "Refit & Erneuerung Bestehender Decks",
+      "description": "Vollständige Entfernung von altem Teak, Unterdeck-Nivellierung, Fugenerneuerung, Präzisionsschliff und strukturelle Restaurierung auf Werksniveau."
+    },
+    "carpentry": {
+      "title": "Einzigartige Yachtschreinerei",
+      "description": "Handgefertigte Handläufe, Grätings, Cockpittische, Badeplattformen und maßgeschneiderte nautische Holzelemente."
+    },
+    "maintenance": {
+      "title": "Präventive Pflege & Schutz",
+      "description": "Umweltfreundlicher Nano-Holzschutz, biologische Tiefenreinigung, Schimmelentfernung und saisonale Behandlungen."
+    },
+    "survey": {
+      "title": "Technische Begutachtung & Beratung",
+      "description": "Inspektion des bestehenden Deckuntergrunds, Feuchtigkeitsmessung im Verbundwerkstoff, Prüfung der Fugenelastizität und detaillierter Sanierungsplan."
+    }
+  },
+  "process": {
+    "badge": "4-Schritte Digitaler Refit-Prozess",
+    "title": "Unser Planungs- und Fertigungsprozess",
+    "subtitle": "Ein disziplinierter 4-Schritte-Ablauf für millimetergenaue Präzision.",
+    "step1": {
+      "num": "01",
+      "title": "3D-Scan & Digitaler Zwilling",
+      "description": "Hochpräzises Laserscanning an Bord erstellt ein exaktes 3D-Digitalmodell."
+    },
+    "step2": {
+      "num": "02",
+      "title": "Werkstatt-Vorfertigung",
+      "description": "CNC-Bearbeitung, handverlesenes stehendes Jahresring-Holz (Quarter-Sawn) und Vakuumlaminierung."
+    },
+    "step3": {
+      "num": "03",
+      "title": "Vakuumverklebung an Bord",
+      "description": "Saubere und schnelle Montage an Bord mit nautischen Strukturklebstoffen ohne Schrauben."
+    },
+    "step4": {
+      "num": "04",
+      "title": "Finish & Übergabe",
+      "description": "Mehrstufiges Schleifen, Fugenkontrolle, Auftrag atmungsaktiver Schutzöle und Übergabe."
+    }
+  },
+  "usp": {
+    "badge": "Warum Heritage Decks",
+    "title": "Der Goldstandard in der Nautischen Holzverarbeitung",
+    "subtitle": "Entdecken Sie die technischen und materiellen Vorteile, die unsere Decks langlebig machen.",
+    "item1Title": "FSC-Zertifiziertes Teak mit Stehenden Jahresringen",
+    "item1Desc": "Wir beziehen ausschließlich reifes Teakholz mit vertikalen Jahresringen (Quarter-Sawn) für minimale Dehnung, Stabilität und erstklassige Haptik.",
+    "item2Title": "Schraubenlose Verklebung",
+    "item2Desc": "Kein Bohren in den Schiffsrumpf, wodurch das Risiko von Wassereintritt, Korrosion der Sandwichkonstruktion oder Delamination dauerhaft ausgeschlossen wird.",
+    "item3Title": "Basis in der Werft Pula & Mobiles Team",
+    "item3Desc": "Werkstatt innerhalb der Werft Pula sowie mobiler Service für alle Marinas in Kroatien, Slowenien und Italien.",
+    "item4Title": "Zertifizierte Fugengarantie",
+    "item4Desc": "Einsatz hochelastischer nautischer Fugenmassen mit nachgewiesener Beständigkeit gegen extreme UV-Strahlung, Salz und Abrieb ohne Rissbildung."
+  },
+  "gallery": {
+    "badge": "Ausgewählte Arbeiten",
+    "title": "Galerie Realisierter Projekte",
+    "subtitle": "Entdecken Sie unsere neuesten Teakdeck-Installationen, Refits und Details auf Luxusyachten.",
+    "filterAll": "Alle Projekte",
+    "filterDecks": "Neue Decks",
+    "filterRefit": "Refit & Restaurierung",
+    "filterDetails": "Handwerkliche Details",
+    "viewMore": "Details ansehen",
+    "project1Title": "Maßgefertigtes Teakdeck einer Motoryacht",
+    "project1Tag": "Werft Pula",
+    "project2Title": "Deck-Refit einer Motoryacht",
+    "project2Tag": "Adria-Refit",
+    "project3Title": "Handgeschnittene Leibhölzer & Rahmen",
+    "project3Tag": "Meisterschreinerei",
+    "project4Title": "Teakverlegung in Cockpit & Achtern",
+    "project4Tag": "Quarter-Sawn Teak",
+    "project5Title": "Refit der Luxusyacht Deanja",
+    "project5Tag": "Komplette Restaurierung",
+    "project6Title": "Badeplattform & Grätings nach Maß",
+    "project6Tag": "Yachtschreinerei",
+    "modalClose": "Galerie schließen",
+    "prevImage": "Vorheriges Bild",
+    "nextImage": "Nächstes Bild",
+    "imageOf": "von",
+    "photoCount": "Fotos",
+    "openProject": "Projektgalerie öffnen",
+    "projectDecksTitle": "Maßgefertigte Teakdecks & Cockpit",
+    "projectDecksTag": "Werft Pula",
+    "projectDecksDesc": "Präzise digitale Schablonen, handverlesenes Burma-Teak und Vakuumverklebung in der Werft Pula.",
+    "projectEnigmaTitle": "Motoryacht Komplett-Refit",
+    "projectEnigmaTag": "Adria Superyacht Refit",
+    "projectEnigmaDesc": "Vollständige Entfernung alter Planken, Laser-Nivellierung des Unterdecks und Einbau neuer Mehrzonen-Teakdecks.",
+    "projectDeanjaTitle": "Luxusyacht Deanja Komplette Restaurierung",
+    "projectDeanjaTag": "Schlüsselfertiger Luxus-Refit",
+    "projectDeanjaDesc": "Umfassender Decksaustausch, handgebogene Leibhölzer und hochbeständige Kalfaterung für alle Wetterbedingungen.",
+    "projectCrnoboriTitle": "Maßgefertigtes Schiffsdeck Crnobori",
+    "projectCrnoboriTag": "Quarter-Sawn Teak",
+    "projectCrnoboriDesc": "Komplett maßgeschneidertes Teakdeck mit tiefen Kalfaterungsfugen und präzisen Verschlüssen.",
+    "projectBrazilTitle": "Yacht Badeplattform & Details",
+    "projectBrazilTag": "Präzise Yachtschreinerei",
+    "projectBrazilDesc": "Integrierte bündige Luken, Teakbelag der hydraulischen Plattform und geschwungene Cockpittische."
+  },
+  "faq": {
+    "badge": "Fragen & Antworten",
+    "title": "Häufig Gestellte Fragen",
+    "subtitle": "Alle Informationen zu unseren Teakdecks, dem Verlegeprozess und der langfristigen Pflege.",
+    "q1": "Was ist 3D-Laserscanning des Decks und warum ist es überlegen?",
+    "a1": "3D-Laserscanning erfasst Millionen von Punkten Ihres Decks in wenigen Minuten mit Submillimeter-Präzision.",
+    "q2": "Welche Holzarten verwenden Sie für den Decksbau?",
+    "a2": "Wir verwenden ausschließlich zertifiziertes Burma-Teak erster Klasse (Quarter-Sawn) sowie hochwertige ökologische Verbundwerkstoffe nach Kundenwunsch. Wir wählen Holz mit gleichmäßiger Struktur und hohem Anteil an natürlichen Ölen.",
+    "q3": "Wie lange dauert ein durchschnittliches Deck-Refit- oder Neubauprojekt?",
+    "a3": "Abhängig von der Schiffslänge und dem Zustand des Unterdecks dauert der gesamte Prozess von der Vermessung bis zur Endübergabe in der Regel 3 bis 6 Wochen.",
+    "q4": "Werden Schrauben zur Befestigung des neuen Decks verwendet?",
+    "a4": "Niemals. Wir verwenden eine moderne Verklebungsmethode mit spezialisierten nautischen Polymerklebstoffen. Durch den Verzicht auf Bohrungen im Rumpf wird 100% Wasserdichtigkeit gewährleistet und die Sandwichkonstruktion dauerhaft geschützt.",
+    "q5": "Wo befindet sich Ihre Werkstatt und welches Gebiet decken Sie ab?",
+    "a5": "Unsere Hauptbasis und Werkstatt befinden sich innerhalb der Werft Pula, Istrien. Unser mobiles Team ist in ganz Istrien, an der gesamten Adria sowie in Marinas in Slowenien und Italien (Triest, Venedig, Monfalcone, Ancona) tätig."
+  },
+  "contact": {
+    "badge": "Kontakt aufnehmen",
+    "title": "Kostenlose Einschätzung & Angebot Anfordern",
+    "subtitle": "Sprechen Sie direkt mit Bootsbaumeister Milan Dragović über Ihr Schiff. Wir bieten Vor-Ort-Besichtigungen und fachkundige Analysen.",
+    "contactPersonTitle": "Bootsbaumeister",
+    "contactPersonName": "Milan Dragović",
+    "companyTitle": "Heritage Decks d.o.o.",
+    "companyAddress": "Werft Pula, Istrien, Kroatien",
+    "nameLabel": "Vor- und Nachname",
+    "namePlaceholder": "z.B. Kapitän Marko Horvat",
+    "emailLabel": "E-Mail-Adresse",
+    "emailPlaceholder": "marko@beispiel.de",
+    "phoneLabel": "Telefonnummer",
+    "phonePlaceholder": "+385 98 939 1850",
+    "vesselLabel": "Schiffstyp & Modell",
+    "vesselPlaceholder": "z.B. Sunseeker Predator 60 / Marina Veruda",
+    "serviceLabel": "Gewünschte Leistung",
+    "serviceDefault": "Leistung auswählen...",
+    "serviceOpt1": "Neues Teakdeck",
+    "serviceOpt2": "Deck-Refit & Sanierung",
+    "serviceOpt3": "3D-Laserscanning",
+    "serviceOpt4": "Yachtschreinerei / Tisch / Plattform",
+    "messageLabel": "Projektbeschreibung",
+    "messagePlaceholder": "Beschreiben Sie Ihr Schiff, den aktuellen Deckzustand und den gewünschten Zeitrahmen...",
+    "consentText": "Ich akzeptiere die Verarbeitung meiner personenbezogenen Daten gemäß der Datenschutzerklärung zur Erstellung eines unverbindlichen Angebots.",
+    "consentLink": "Datenschutzerklärung",
+    "submitBtn": "Projektanfrage senden",
+    "sending": "Anfrage wird gesendet...",
+    "success": "Vielen Dank! Ihre Anfrage wurde erfolgreich empfangen. Bootsbaumeister Milan Dragović und unser Team werden sich innerhalb von 24 Stunden bei Ihnen melden.",
+    "errorGeneral": "Beim Senden der Nachricht ist ein Fehler aufgetreten. Bitte überprüfen Sie Ihre Eingaben und versuchen Sie es erneut.",
+    "infoLocation": "Werft Pula, Istrien, Kroatien",
+    "infoPhone": "+385 98 939 1850",
+    "infoEmail": "milandragovic@net.hr",
+    "infoHours": "Mo - Sa: 08:00 - 18:00 CET"
+  },
+  "footer": {
+    "tagline": "Über 30 Jahre meisterhafte Teakdeck-Fertigung und Yachtschreinerei an der Adria.",
+    "quickLinks": "Schnelllinks",
+    "servicesTitle": "Leistungen",
+    "legalTitle": "Rechtliches",
+    "privacyPolicy": "Datenschutzerklärung",
+    "accessibility": "Barrierefreiheitserklärung",
+    "terms": "Nutzungsbedingungen",
+    "copyright": "© 2026 Heritage Decks. Alle Rechte vorbehalten. Gefertigt von Milan Dragović, Werft Pula.",
+    "backToTop": "Zurück nach oben",
+    "complianceNote": "WCAG 2.2 AA / AAA Konform • Istrien, Kroatien"
+  },
+  "cookie": {
+    "title": "Privatsphäre & Cookies",
+    "text": "Wir verwenden nur technisch notwendige Cookies, um Ihre Sprach- und Designeinstellungen zu speichern. Wir verwenden keine Tracking- oder Werbe-Cookies.",
+    "acceptAll": "Alle akzeptieren",
+    "essentialOnly": "Nur notwendige"
+  },
+  "accessibility": {
+    "badge": "Barrierefreiheit",
+    "title": "Erklärung zur Barrierefreiheit",
+    "intro": "Heritage Decks verpflichtet sich, digitale Barrierefreiheit für Menschen mit Behinderungen gemäß den Web Content Accessibility Guidelines (WCAG) 2.2 Stufe AA und AAA zu gewährleisten.",
+    "measures": "Umgesetzte Maßnahmen",
+    "measure1": "Vollständige Tastaturnavigation mit klaren Fokus-Indikatoren auf allen interaktiven Elementen.",
+    "measure2": "Hoher Farbkontrast (mindestens 7:1 für normalen Text auf AAA-Niveau) in Hell- und Dunkelmodus.",
+    "measure3": "Semantisches HTML5, ARIA-Labels und vollständige Screenreader-Unterstützung.",
+    "feedback": "Kontakt für Barrierefreiheit",
+    "feedbackDesc": "Wenn Sie auf Barrieren stoßen oder Hilfe benötigen, kontaktieren Sie uns bitte unter info@heritage-decks.com oder +385 98 939 1850."
+  },
+  "privacy": {
+    "badge": "Datenschutz",
+    "title": "Datenschutzerklärung (DSGVO)",
+    "intro": "Heritage Decks respektiert Ihre Privatsphäre und schützt Ihre personenbezogenen Daten in voller Übereinstimmung mit der Datenschutz-Grundverordnung (DSGVO).",
+    "controller": "Verantwortlicher",
+    "controllerDesc": "Heritage Decks d.o.o., Werft Pula, Istrien, Kroatien. E-Mail: privacy@heritage-decks.com.",
+    "collection": "Welche Daten wir erheben",
+    "collectionDesc": "Wir erheben ausschließlich die Daten, die Sie freiwillig in das Kontaktformular eingeben (Name, E-Mail, Telefon, Schiffsdetails), ausschließlich zur Erstellung des angeforderten Angebots.",
+    "rights": "Ihre Rechte gemäß DSGVO",
+    "rightsDesc": "Sie haben jederzeit das Recht auf Auskunft, Berichtigung, Löschung oder Einschränkung der Verarbeitung Ihrer personenbezogenen Daten."
+  },
+  "terms": {
+    "badge": "Rechtliche Bedingungen",
+    "title": "Nutzungsbedingungen",
+    "intro": "Diese Bedingungen regeln die Nutzung der Website von Heritage Decks und die Kommunikation über unsere digitalen Kanäle.",
+    "services": "Unverbindliche Kostenschätzungen",
+    "servicesDesc": "Alle über das Webformular übermittelten Schätzungen, Berechnungen und Termine sind unverbindlich, bis sie nach einer Vor-Ort-Besichtigung durch einen offiziellen Werftvertrag bestätigt werden.",
+    "ip": "Geistiges Eigentum",
+    "ipDesc": "Alle Fotos, 3D-Visualisierungen, Texte und grafischen Elemente auf dieser Website sind ausschließliches Eigentum von Heritage Decks und urheberrechtlich geschützt."
+  },
+  "form": {
+    "errRequired": "Dieses Feld ist erforderlich.",
+    "errEmail": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+    "errPhone": "Bitte geben Sie eine gültige Telefonnummer ein.",
+    "errConsent": "Sie müssen die Datenschutzerklärung akzeptieren, um die Anfrage zu senden.",
+    "errSummary": "Bitte korrigieren Sie die markierten Fehler, bevor Sie das Formular absenden.",
+    "sending": "Anfrage wird gesendet...",
+    "successMsg": "Vielen Dank! Bootsbaumeister Milan Dragović und unser Team werden sich innerhalb von 24 Stunden bei Ihnen melden."
+  }
+}

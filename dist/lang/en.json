@@ -1,7 +1,7 @@
 {
   "meta": {
     "title": "Heritage Decks | Premium Marine Teak Decking & Custom Yacht Carpentry",
-    "description": "Over 30 years of master marine carpentry, 3D laser digitizing, and luxury teak decking refit based at Avangard Shipyard Pula, Istria, Croatia. Master shipwright Perica Bajs."
+    "description": "Over 30 years of master marine carpentry, 3D laser digitizing, and luxury teak decking refit based at Pula Shipyard Pula, Istria, Croatia. Master shipwright Milan Dragović."
   },
   "nav": {
     "skipToContent": "Skip to main content",
@@ -25,25 +25,25 @@
   "hero": {
     "badge": "Over 30 Years of Master Marine Carpentry",
     "title": "Timeless Elegance & Precision Marine Decking",
-    "subtitle": "Led by master shipwright Perica Bajs from Avangard Shipyard Pula, combining three decades of artisanal woodcraft with cutting-edge 3D laser digitizing across the Adriatic and Mediterranean.",
+    "subtitle": "Led by master shipwright Milan Dragović. Three decades of excellence in Pula shipyards and marinas.",
     "ctaPrimary": "Request Consultation",
     "ctaSecondary": "Explore Projects"
   },
   "about": {
     "badge": "Our Heritage & Lineage",
     "title": "Three Decades of Uncompromising Marine Craftsmanship",
-    "description": "Rooted in the renowned shipbuilding traditions of Pula and operating directly from the historic Avangard Shipyard, Heritage Decks is spearheaded by master marine carpenter Perica Bajs. For over 30 years, our workshop has engineered bespoke teak decks, combining hand-selected timber, precision jointing, and vacuum bonding to meet the exacting standards of international luxury yachts and heritage vessels.",
+    "description": "We specialize in designing, crafting, and installing top-class yacht decks. We approach every project with great precision and artisanal passion, guaranteeing longevity and a flawless aesthetic appearance for your vessel.",
     "founderTitle": "Master Shipwright & Founder",
-    "founderName": "Perica Bajs",
-    "founderLocation": "Avangard Shipyard, Pula, Istria, Croatia",
+    "founderName": "Milan Dragović",
+    "founderLocation": "Pula Shipyard, Pula, Istria, Croatia",
     "stat1Value": "30+",
     "stat1Label": "Years Master Craftsmanship",
     "stat2Value": "350+",
     "stat2Label": "Completed Marine Decks",
     "stat3Value": "100%",
     "stat3Label": "Burmese Teak & Eco Alternatives",
-    "stat4Value": "0.5mm",
-    "stat4Label": "Laser Scanning Precision"
+    "stat4Value": "400+",
+    "stat4Label": "Satisfied Clients"
   },
   "services": {
     "badge": "Our Expertise",
@@ -105,10 +105,10 @@
     "subtitle": "Discover the engineering and material advantages that elevate our yacht decks.",
     "item1Title": "FSC-Certified Quarter-Sawn Teak",
     "item1Desc": "We exclusively procure sustainable, tight-grain vertical timber ensuring optimal stability, heat rejection, and longevity.",
-    "item2Title": "Zero-Fastener Vacuum Lamination",
+    "item2Title": "Zero-Fastener Lamination",
     "item2Desc": "No screw penetrations into your yacht's hull, eliminating risk of water ingress, corrosion, or delamination permanently.",
-    "item3Title": "Avangard Shipyard Pula Hub & Mobile Team",
-    "item3Desc": "Workshop facilities at Avangard Shipyard with mobile deployment across marinas in Croatia, Italy, Slovenia, and the Mediterranean.",
+    "item3Title": "Pula Shipyard Hub & Mobile Team",
+    "item3Desc": "Workshop facilities at Pula Shipyard with mobile deployment across marinas in Croatia, Italy, Slovenia, and the Mediterranean.",
     "item4Title": "Guaranteed Seam Caulking",
     "item4Desc": "Top-tier UV and saltwater resistant marine caulking compounds guaranteed against cracking, bubbling, and shrinking."
   },
@@ -122,7 +122,7 @@
     "filterDetails": "Artisanal Details",
     "viewMore": "View Details",
     "project1Title": "Motor Yacht Custom Teak Deck",
-    "project1Tag": "Avangard Shipyard Pula",
+    "project1Tag": "Pula Shipyard",
     "project2Title": "Yacht Enigma Šibenik Refit",
     "project2Tag": "Adriatic Refit",
     "project3Title": "Hand-Fitted Margin Boards",
@@ -140,8 +140,8 @@
     "photoCount": "photos",
     "openProject": "View Full Project Gallery",
     "projectDecksTitle": "Custom Teak Decks & Cockpit Overhaul",
-    "projectDecksTag": "Avangard Shipyard Pula",
-    "projectDecksDesc": "Precision digital templating, hand-selected Burmese teak and vacuum-bonded decking fabricated at Avangard Shipyard Pula.",
+    "projectDecksTag": "Pula Shipyard",
+    "projectDecksDesc": "Precision digital templating, hand-selected Burmese teak and vacuum-bonded decking fabricated at Pula Shipyard.",
     "projectenigmaEnigmaTitle": "Motor Yacht Enigma Šibenik Full Refit",
     "projectenigmaEnigmaTag": "Adriatic Superyacht Refit",
     "projectenigmaEnigmaDesc": "Complete removal of worn planking, laser deck surface leveling, and custom multi-zone teak installation.",
@@ -151,9 +151,10 @@
     "projectCrnoboriTitle": "Custom Marine Deck Crnobori",
     "projectCrnoboriTag": "Quarter-Sawn Vertical Grain",
     "projectCrnoboriDesc": "Bespoke cockpit, transom steps, and forward sundeck crafting with vertical grain teak for long-term dimensional stability.",
-    "projectBrazilTitle": "Yacht Brazil Custom Swim Platform & Details",
+    "projectBrazilTitle": "Yacht Swim Platform & Details",
     "projectBrazilTag": "Bespoke Marine Joinery",
-    "projectBrazilDesc": "Integrated flush hatches, hydraulic swim platform teak surfacing, and customized gratings built to maritime tolerances."
+    "projectBrazilDesc": "Integrated flush hatches, hydraulic swim platform teak surfacing, and customized gratings built to maritime tolerances.",
+    "projectEnigmaTitle": "Motor Yacht Full Refit"
   },
   "faq": {
     "badge": "Questions & Answers",
@@ -168,22 +169,22 @@
     "q4": "Are screws used to secure the new deck?",
     "a4": "Never. We use modern vacuum-assisted adhesive bonding. By avoiding screws through the deck core, your subdeck remains 100% watertight, preventing any potential fiberglass delamination or core rot.",
     "q5": "Where is your primary facility and what territory do you cover?",
-    "a5": "Our main workshop and prefabrication base is situated within the historic Avangard Shipyard in Pula, Istria. In addition, our mobile team directly serves all ports across Croatia, Italy (Venice, Trieste, Monfalcone, Ancona), and Slovenia."
+    "a5": "Our main workshop and prefabrication base is situated within the historic Pula Shipyard in Pula, Istria. In addition, our mobile team directly serves all ports across Croatia, Italy (Venice, Trieste, Monfalcone, Ancona), and Slovenia."
   },
   "contact": {
     "badge": "Get in Touch",
     "title": "Request a Free Survey & Estimate",
-    "subtitle": "Discuss your yacht project directly with master shipwright Perica Bajs. We provide comprehensive on-site technical appraisals.",
+    "subtitle": "Discuss your yacht project directly with master shipwright Milan Dragović. We provide comprehensive on-site technical appraisals.",
     "contactPersonTitle": "Master Shipwright",
-    "contactPersonName": "Perica Bajs",
+    "contactPersonName": "Milan Dragović",
     "companyTitle": "Heritage Decks d.o.o.",
-    "companyAddress": "Brodogradilište Avangard, Riva 1, 52100 Pula, Istria, Croatia",
+    "companyAddress": "Pula Shipyard, Istria, Croatia",
     "nameLabel": "Full Name",
     "namePlaceholder": "e.g. Captain Marko Horvat",
     "emailLabel": "Email Address",
     "emailPlaceholder": "marko@example.com",
     "phoneLabel": "Phone Number",
-    "phonePlaceholder": "+385 98 000 0000",
+    "phonePlaceholder": "+385 98 939 1850",
     "vesselLabel": "Vessel Type & Model",
     "vesselPlaceholder": "e.g. Sunseeker Predator 60 / Marina Veruda",
     "serviceLabel": "Requested Service",
@@ -198,11 +199,11 @@
     "consentLink": "Privacy Policy",
     "submitBtn": "Send Project Inquiry",
     "sending": "Transmitting inquiry...",
-    "success": "Thank you! Your inquiry has been sent successfully. Master shipwright Perica Bajs and our team will contact you within 24 hours.",
+    "success": "Thank you! Your inquiry has been sent successfully. Master shipwright Milan Dragović and our team will contact you within 24 hours.",
     "errorGeneral": "There was an error sending your message. Please check the fields and try again.",
-    "infoLocation": "Avangard Shipyard, Pula, Istria, Croatia",
-    "infoPhone": "+385 98 000 0000",
-    "infoEmail": "info@heritage-decks.com",
+    "infoLocation": "Pula Shipyard, Istria, Croatia",
+    "infoPhone": "+385 98 939 1850",
+    "infoEmail": "milandragovic@net.hr",
     "infoHours": "Mon - Sat: 08:00 - 18:00 CET"
   },
   "footer": {
@@ -213,7 +214,7 @@
     "privacyPolicy": "Privacy Policy",
     "accessibility": "Accessibility Statement",
     "terms": "Terms of Service",
-    "copyright": "© 2026 Heritage Decks. All rights reserved. Handcrafted by Perica Bajs at Avangard Shipyard Pula.",
+    "copyright": "© 2026 Heritage Decks. All rights reserved. Handcrafted by Milan Dragović at Pula Shipyard.",
     "backToTop": "Back to top of page",
     "complianceNote": "WCAG 2.2 AA / AAA Compliant • Istria, Croatia"
   },
@@ -262,6 +263,6 @@
     "errConsent": "You must accept the privacy policy to submit an inquiry.",
     "errSummary": "Please correct the errors in the form before submitting.",
     "sending": "Sending inquiry...",
-    "successMsg": "Thank you! Master shipwright Perica Bajs and our team will contact you within 24 hours."
+    "successMsg": "Thank you! Master shipwright Milan Dragović and our team will contact you within 24 hours."
   }
 }
