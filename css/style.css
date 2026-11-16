@@ -417,6 +417,11 @@ button {
   font-weight: 700;
 }
 
+[data-theme="light"] .lang-btn.active,
+[data-theme="light"] .back-to-top {
+  color: #FFFFFF;
+}
+
 .menu-toggle {
   display: inline-flex;
 }
