@@ -1699,3 +1699,7 @@ details[open] .faq-icon {
 .section:not(.section-alt):not(.section-process):not(.section-contact) {
   background-color: var(--bg-primary);
 }
+
+[data-theme="light"] .skip-link {
+  color: #FFFFFF;
+}
