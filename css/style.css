@@ -419,7 +419,7 @@ button {
 
 [data-theme="light"] .lang-btn.active,
 [data-theme="light"] .back-to-top,
-[data-theme="light"] .filter-tab.active {
+[data-theme="light"] .gallery-filter-btn.active {
   color: #FFFFFF;
 }
 
@@ -1677,7 +1677,7 @@ details[open] .faq-icon {
 }
 
 /* WAVE Light-Theme Contrast Overrides */
-[data-theme="light"] .filter-tab.active {
+[data-theme="light"] .gallery-filter-btn.active {
   color: #FFFFFF;
 }
 
@@ -1687,7 +1687,7 @@ details[open] .faq-icon {
 }
 
 /* WAVE Light-Theme Contrast Overrides */
-[data-theme="light"] .filter-tab.active {
+[data-theme="light"] .gallery-filter-btn.active {
   color: #FFFFFF;
 }
 
