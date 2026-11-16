@@ -1419,26 +1419,6 @@
       "de": "Luxusyacht Deanja Teakdeck-Refit - Detail deanja-001"
     }
   },
-  "images/work/deanja/hd-gallery-deanja-002.webp": {
-    "width": 608,
-    "height": 1080,
-    "alt": {
-      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-002",
-      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-002",
-      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-002",
-      "de": "Luxusyacht Deanja Teakdeck-Refit - Detail deanja-002"
-    }
-  },
-  "images/work/deanja/hd-gallery-deanja-003.webp": {
-    "width": 1080,
-    "height": 608,
-    "alt": {
-      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-003",
-      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-003",
-      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-003",
-      "de": "Luxusyacht Deanja Teakdeck-Refit - Detail deanja-003"
-    }
-  },
   "images/work/deanja/hd-gallery-deanja-004.webp": {
     "width": 1080,
     "height": 608,
@@ -1467,16 +1447,6 @@
       "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-006",
       "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-006",
       "de": "Luxusyacht Deanja Teakdeck-Refit - Detail deanja-006"
-    }
-  },
-  "images/work/deanja/hd-gallery-deanja-007.webp": {
-    "width": 1080,
-    "height": 608,
-    "alt": {
-      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-007",
-      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-007",
-      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-007",
-      "de": "Luxusyacht Deanja Teakdeck-Refit - Detail deanja-007"
     }
   },
   "images/work/deanja/hd-gallery-deanja-008.webp": {
@@ -1577,16 +1547,6 @@
       "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-017",
       "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-017",
       "de": "Luxusyacht Deanja Teakdeck-Refit - Detail deanja-017"
-    }
-  },
-  "images/work/deanja/hd-gallery-deanja-018.webp": {
-    "width": 1080,
-    "height": 608,
-    "alt": {
-      "en": "Luxury yacht teak refit and deck craft Deanja - Detail deanja-018",
-      "hr": "Refit i izrada luksuzne tikove palube jahte Deanja - Detalj deanja-018",
-      "it": "Refit e lavorazione artigianale coperta yacht di lusso Deanja - Dettaglio deanja-018",
-      "de": "Luxusyacht Deanja Teakdeck-Refit - Detail deanja-018"
     }
   },
   "images/work/deanja/hd-gallery-deanja-019.webp": {
@@ -2537,6 +2497,136 @@
       "hr": "Refit premium tikove palube motorne jahte Enigma Šibenik - Detalj enigma-sibenik-052",
       "it": "Refit coperta premium in teak motoryacht Enigma Sibenik - Dettaglio enigma-sibenik-052",
       "de": "Motoryacht Teakdeck-Refit - Detail enigma-sibenik-052"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-001.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 001",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 001",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 001",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 001"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-002.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 002",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 002",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 002",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 002"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-003.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 003",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 003",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 003",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 003"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-004.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 004",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 004",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 004",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 004"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-005.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 005",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 005",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 005",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 005"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-006.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 006",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 006",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 006",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 006"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-007.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 007",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 007",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 007",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 007"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-008.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 008",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 008",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 008",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 008"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-009.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 009",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 009",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 009",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 009"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-010.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 010",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 010",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 010",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 010"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-011.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 011",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 011",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 011",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 011"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-012.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 012",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 012",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 012",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 012"
+    }
+  },
+  "images/work/heder/hd-gallery-heder-013.webp": {
+    "width": 2048,
+    "height": 1536,
+    "alt": {
+      "en": "Luxury yacht Heder deck restoration - Detail 013",
+      "hr": "Luksuzna jahta Heder restauracija palube - Detalj 013",
+      "it": "Restauro ponte yacht di lusso Heder - Dettaglio 013",
+      "de": "Luxusyacht Heder Deck-Restaurierung - Detail 013"
     }
   }
 }

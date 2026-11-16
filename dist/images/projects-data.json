@@ -145,15 +145,12 @@
       "it": "Sostituzione completa del ponte, cornici curve rifinite a mano e calafataggio ad alte prestazioni.",
       "de": "Umfassender Decksaustausch, handgebogene Leibhölzer und hochbeständige Kalfaterung für alle Wetterbedingungen."
     },
-    "count": 49,
+    "count": 45,
     "images": [
       "images/work/deanja/hd-gallery-deanja-001.webp",
-      "images/work/deanja/hd-gallery-deanja-002.webp",
-      "images/work/deanja/hd-gallery-deanja-003.webp",
       "images/work/deanja/hd-gallery-deanja-004.webp",
       "images/work/deanja/hd-gallery-deanja-005.webp",
       "images/work/deanja/hd-gallery-deanja-006.webp",
-      "images/work/deanja/hd-gallery-deanja-007.webp",
       "images/work/deanja/hd-gallery-deanja-008.webp",
       "images/work/deanja/hd-gallery-deanja-009.webp",
       "images/work/deanja/hd-gallery-deanja-010.webp",
@@ -164,7 +161,6 @@
       "images/work/deanja/hd-gallery-deanja-015.webp",
       "images/work/deanja/hd-gallery-deanja-016.webp",
       "images/work/deanja/hd-gallery-deanja-017.webp",
-      "images/work/deanja/hd-gallery-deanja-018.webp",
       "images/work/deanja/hd-gallery-deanja-019.webp",
       "images/work/deanja/hd-gallery-deanja-020.webp",
       "images/work/deanja/hd-gallery-deanja-021.webp",
@@ -334,6 +330,48 @@
       "images/work/brazil/hd-gallery-brazil-038.webp",
       "images/work/brazil/hd-gallery-brazil-039.webp",
       "images/work/brazil/hd-gallery-brazil-040.webp"
+    ]
+  },
+  {
+    "id": "heder",
+    "category": "refit",
+    "cover": "images/work/heder/hd-gallery-heder-001.webp",
+    "titleKey": "gallery.projectHederTitle",
+    "tagKey": "gallery.projectHederTag",
+    "descKey": "gallery.projectHederDesc",
+    "titles": {
+      "en": "Luxury Yacht Heder Deck Restoration",
+      "hr": "Luksuzna Jahta Heder Restauracija Palube",
+      "it": "Restauro Ponte Yacht di Lusso Heder",
+      "de": "Luxusyacht Heder Deck-Restaurierung"
+    },
+    "tags": {
+      "en": "Turnkey Luxury Refit",
+      "hr": "Ključ u Ruke Luksuzni Refit",
+      "it": "Refit Chiavi in Mano",
+      "de": "Schlüsselfertiger Luxus-Refit"
+    },
+    "descs": {
+      "en": "Complete teak deck restoration, precision plank fitting, and marine-grade caulking for yacht Heder.",
+      "hr": "Kompletna restauracija tikove palube, precizno uklapanje trenica i vrhunsko nautičko kalafatanje za jahtu Heder.",
+      "it": "Restauro completo del ponte in teak, posa di precisione e calafataggio nautico per lo yacht Heder.",
+      "de": "Komplette Restaurierung des Teakdecks, präzise Plankenverlegung und maritime Kalfaterung für die Yacht Heder."
+    },
+    "count": 13,
+    "images": [
+      "images/work/heder/hd-gallery-heder-001.webp",
+      "images/work/heder/hd-gallery-heder-002.webp",
+      "images/work/heder/hd-gallery-heder-003.webp",
+      "images/work/heder/hd-gallery-heder-004.webp",
+      "images/work/heder/hd-gallery-heder-005.webp",
+      "images/work/heder/hd-gallery-heder-006.webp",
+      "images/work/heder/hd-gallery-heder-007.webp",
+      "images/work/heder/hd-gallery-heder-008.webp",
+      "images/work/heder/hd-gallery-heder-009.webp",
+      "images/work/heder/hd-gallery-heder-010.webp",
+      "images/work/heder/hd-gallery-heder-011.webp",
+      "images/work/heder/hd-gallery-heder-012.webp",
+      "images/work/heder/hd-gallery-heder-013.webp"
     ]
   }
 ]
