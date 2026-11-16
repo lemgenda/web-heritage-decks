@@ -514,6 +514,10 @@ button {
   border: 1px solid var(--gold-primary);
 }
 
+[data-theme="light"] .btn-primary {
+  color: #FFFFFF;
+}
+
 .btn-primary:hover {
   background-color: var(--gold-hover);
   color: #0A0F14;
